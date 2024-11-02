@@ -12,7 +12,7 @@ gText_IllTakeYourPkmn::
 
 gText_RestoredPkmnToFullHealth::
 	.string "Obrigado por esperar.\p"
-	.string "Restauramos seu POKÉMON\n"
+	.string "Restauramos seu POKéMON\n"
 	.string "para a saúde completa.$"
 
 gText_WeHopeToSeeYouAgain::
@@ -35,14 +35,14 @@ gText_NoticesGoldCard::
 	.string "você é o primeiro TREINADOR que eu já\l"
 	.string "vi com um CARTÃO DE OURO!\p"
 	.string "Ok, {PLAYER}, por favor, permita-me\n"
-	.string "a honra de descansar seus POKÉMON!$"
+	.string "a honra de descansar seus POKéMON!$"
 
 gText_YouWantTheUsual::
 	.string "Estou encantado em vê-lo, {PLAYER}!\n"
 	.string "Você quer o de sempre, certo?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Certo, vou pegar seus POKÉMON\n"
+	.string "Certo, vou pegar seus POKéMON\n"
 	.string "por alguns segundos.$"
 
 gText_ThankYouForWaiting::
