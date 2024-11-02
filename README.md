@@ -1,11 +1,16 @@
-# Pokémon Emerald
+# Pokémon Esmeralda (PT-BR)
+Essa é uma tradução da decompilação do Pokémon Esmeralda (Emerald).
 
-This is a decompilation of Pokémon Emerald.
-
-It builds the following ROM:
-
+Baseado na seguinte ROM:
 * [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+Se quiser configurar o repositório pra fazer as builds, veja o [INSTALL.md](INSTALL.md) (tá em inglês).
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+
+## Notas
+Todos os caracteres com `~` (Ã, Õ, etc) foram substituidos por um trema `¨`. 
+
+## Créditos
+2024 - Traduzido por Lucas Gabriel (lucmsilva).
+
+Extração do código fonte por [pret](https://github.com/pret).
