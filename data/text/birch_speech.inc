@@ -57,5 +57,5 @@ gText_Birch_AreYouReady::
 	.string "mundo dos POKéMON, onde sonhos,\l"
 	.string "aventura e amizades o aguardam!\p"
 	.string "Bem, estarei esperando por você depois.\n"
-	.string "Venha me ver no meu LABORATÓRIO POKéMON.\p"
+	.string "Venha me ver no meu LABORATÓRIO.\p"
 	.string "$"
