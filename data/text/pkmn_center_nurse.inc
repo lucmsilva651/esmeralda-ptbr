@@ -27,13 +27,13 @@ gText_WelcomeCutShort::
 
 gText_NoticesGoldCard::
 	.string "E-e-es-sa carta…\n"
-	.string "Será… O CARTÃO DE OURO?!\p"
+	.string "Será… O CARTÄO DE OURO?!\p"
 	.string "Oh, a cor dourada é brilhante!\n"
 	.string "As quatro estrelas parecem brilhar!\p"
 	.string "Já vi vários TREINADORES com um\n"
-	.string "CARTÃO DE PRATA antes, mas, {PLAYER},\l"
+	.string "CARTÄO DE PRATA antes, mas, {PLAYER},\l"
 	.string "você é o primeiro TREINADOR que eu já\l"
-	.string "vi com um CARTÃO DE OURO!\p"
+	.string "vi com um CARTÄO DE OURO!\p"
 	.string "Ok, {PLAYER}, por favor, permita-me\n"
 	.string "a honra de descansar seus POKéMON!$"
 

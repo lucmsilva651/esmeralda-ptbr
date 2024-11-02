@@ -20,7 +20,7 @@ gText_Birch_MainSpeech::
 	.string "E, às vezes, nos unimos e\n"
 	.string "batalhamos com outros como nós.\p"
 	.string "Mas, apesar da nossa proximidade,\n"
-	.string "não sabemos tudo sobre os POKéMON.\p"
+	.string "näo sabemos tudo sobre os POKéMON.\p"
 	.string "Na verdade, há muitos, muitos\n"
 	.string "mistérios em torno dos POKéMON.\p"
 	.string "Para desvendar os segredos dos\n"
@@ -40,7 +40,7 @@ gText_Birch_WhatsYourName::
 	.string "Qual é o seu nome?$"
 
 gText_Birch_SoItsPlayer::
-	.string "Então é {PLAYER}{KUN}?$"
+	.string "Entäo é {PLAYER}{KUN}?$"
 
 gText_Birch_YourePlayer::
 	.string "Ah, entendi!\p"
