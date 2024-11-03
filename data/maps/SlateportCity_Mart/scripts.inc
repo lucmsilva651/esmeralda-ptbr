@@ -38,7 +38,7 @@ SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
 	.string "The MARKET does have some interesting\n"
 	.string "merchandise.\p"
 	.string "But there are some items you can only\n"
-	.string "get at a POKéMON MART.$"
+	.string "get at a POKéMART.$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
 	.string "A GREAT BALL is better than a POKé BALL\n"

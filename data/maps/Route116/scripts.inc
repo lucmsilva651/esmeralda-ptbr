@@ -403,7 +403,7 @@ Route116_Text_ThankYouTokenOfAppreciation:
 
 Route116_Text_NewBallAvailableAtMart:
 	.string "Our new POKé BALL will be available\n"
-	.string "at the POKéMON MART in RUSTBORO.\p"
+	.string "at the POKéMART in RUSTBORO.\p"
 	.string "Please do try it out!\n"
 	.string "Thank you and bye-bye!$"
 
