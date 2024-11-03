@@ -11,13 +11,13 @@ gText_PkmnTransferredLanettesPC::
 	.string "CAIXA “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
-	.string "BOX “{STR_VAR_3}” no\n"
+	.string "A CAIXA “{STR_VAR_3}” no\n"
 	.string "PC de ALGUéM está cheio.\p"
 	.string "{STR_VAR_2} foi transferido para\n"
 	.string "a CAIXA “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
-	.string "BOX “{STR_VAR_3}” no\n"
+	.string "A CAIXA “{STR_VAR_3}” no\n"
 	.string "PC da LANETTE está cheio.\p"
 	.string "{STR_VAR_2} foi transferido para\n"
 	.string "a CAIXA “{STR_VAR_1}.”$"
