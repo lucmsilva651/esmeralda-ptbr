@@ -1,5 +1,5 @@
 Text_WouldYouLikeToMixRecords:
-	.string "Gostaria de misturar pontuações com\n"
+	.string "Gostaria de misturar pontuaçöes com\n"
 	.string "outros TREINADORES?$"
 
 Text_WeHopeToSeeYouAgain::
