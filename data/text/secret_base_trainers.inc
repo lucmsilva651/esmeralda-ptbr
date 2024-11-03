@@ -91,7 +91,7 @@ SecretBase_Text_Trainer6Intro:
 	.string "Bem-vindo ao meu LABORATóRIO POKéMON.\p"
 	.string "Eu faço pesquisas sobre batalhas\n"
 	.string "POKéMON em segredo.\p"
-	.string "Gostaria de saber o quão forte eu sou?$"
+	.string "Gostaria de saber o quäo forte eu sou?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
 	.string "Eu vou ir com tudo!$"
