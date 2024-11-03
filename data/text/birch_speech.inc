@@ -25,7 +25,7 @@ gText_Birch_MainSpeech::
 	.string "mistérios em torno dos POKéMON.\p"
 	.string "Para desvendar os segredos dos\n"
 	.string "POKéMON, tenho feito pesquisas.\l"
-	.string "É isso que eu faço.\p"
+	.string "é isso que eu faço.\p"
 	.string "$"
 
 gText_Birch_AndYouAre::
@@ -57,5 +57,5 @@ gText_Birch_AreYouReady::
 	.string "mundo dos POKéMON, onde sonhos,\l"
 	.string "aventura e amizades o aguardam!\p"
 	.string "Bem, estarei esperando por você depois.\n"
-	.string "Venha me ver no meu LABORATÓRIO.\p"
+	.string "Venha me ver no meu LABORATóRIO.\p"
 	.string "$"

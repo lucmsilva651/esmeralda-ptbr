@@ -8,7 +8,7 @@ gText_AlreadySavedFile::
 
 gText_SavingDontTurnOff::
 	.string "SALVANDO…\n"
-	.string "NÄO DESLIGUE O SISTEMA.$"
+	.string "NäO DESLIGUE O SISTEMA.$"
 
 gText_PlayerSavedGame::
 	.string "{PLAYER} salvou o jogo.$"
@@ -30,4 +30,4 @@ gText_SaveError::
 
 gText_SavingDontTurnOffPower::
 	.string "SALVANDO…\n"
-	.string "NÄO DESLIGUE O SISTEMA.$"
+	.string "NäO DESLIGUE O SISTEMA.$"
