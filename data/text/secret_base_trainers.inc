@@ -94,7 +94,7 @@ SecretBase_Text_Trainer6Intro:
 	.string "Gostaria de saber o quão forte eu sou?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "I'm going to go all out!$"
+	.string "Eu vou ir com tudo!$"
 
 SecretBase_Text_Trainer6DeclineBattle:
 	.string "Oh.\n"
@@ -105,13 +105,13 @@ SecretBase_Text_Trainer6Defeated::
 	.string "I have to study some more.$"
 
 SecretBase_Text_Trainer6PostBattle:
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+	.string "Obrigado por lutar comigo!\n"
+	.string "Por favor volte amanhä.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+	.string "Bem-vindo ao meu LABORATóRIO POKéMON.\p"
+	.string "Eu faço pesquisas sobre batalhas\n"
+	.string "POKéMON em segredo.\p"
 
 SecretBase_Text_Trainer2Intro:
 	.string "A big mansion is nice, but I like this\n"
@@ -121,7 +121,7 @@ SecretBase_Text_Trainer2Intro:
 	.string "So, how would you like a battle?$"
 
 SecretBase_Text_Trainer2AcceptBattle:
-	.string "That's the way!$"
+	.string "Esse é o jeito!$"
 
 SecretBase_Text_Trainer2DeclineBattle:
 	.string "When you're ready, give me a shout!$"
@@ -151,8 +151,8 @@ SecretBase_Text_Trainer7Intro:
 	.string "with my POKéMON?$"
 
 SecretBase_Text_Trainer7AcceptBattle:
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+	.string "Obrigado.\n"
+	.string "Podemos começar?$"
 
 SecretBase_Text_Trainer7DeclineBattle:
 	.string "Oh.\n"
