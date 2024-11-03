@@ -897,8 +897,8 @@ gText_ComeBackWithSecretPower::
 	.string "you good stuff in secrecy.$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
+	.string "Seu POKéMON pode estar infectado\n"
+	.string "com POKéRUS.\p"
 	.string "Little is known about the POKéRUS\n"
 	.string "except that they are microscopic life-\l"
 	.string "forms that attach to POKéMON.\p"
@@ -908,11 +908,11 @@ gText_PokerusExplanation::
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "Parece que uma porta se abriu\n"
+	.string "bem longe daqui.$"
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+	.string "Tem um buraco grande na parede.$"
 
 gText_SorryWirelessClubAdjustments::
 	.string "I'm terribly sorry.\n"
