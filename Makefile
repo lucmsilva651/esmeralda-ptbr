@@ -1,6 +1,6 @@
 # GBA rom header
-TITLE       := ESMERALDA BR
-GAME_CODE   := ESBR
+TITLE       := POKEMON EMER
+GAME_CODE   := BPEE
 MAKER_CODE  := 01
 REVISION    := 0
 MODERN      ?= 0
