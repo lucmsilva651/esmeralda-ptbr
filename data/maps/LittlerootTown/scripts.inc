@@ -998,7 +998,7 @@ LittlerootTown_Text_GoodLuckCatchingPokemon:
 
 LittlerootTown_Text_TownSign:
 	.string "VILA LITTLEROOT\n"
-	.string "“Uma vila que não pode ser tingida de nenhuma cor.”$"
+	.string "“Uma vila que näo pode ser tingida de nenhuma cor.”$"
 
 LittlerootTown_Text_ProfBirchsLab:
 	.string "LABORATóRIO POKéMON do PROF. BIRCH$"
