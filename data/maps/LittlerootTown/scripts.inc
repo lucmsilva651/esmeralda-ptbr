@@ -1001,7 +1001,7 @@ LittlerootTown_Text_TownSign:
 	.string "“A town that can't be shaded any hue.”$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "LABORATóRIO POKéMON do PROF. BIRCH$"
 
 LittlerootTown_Text_PlayersHouse:
 	.string "{PLAYER}'s HOUSE$"
