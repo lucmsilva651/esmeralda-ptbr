@@ -993,8 +993,8 @@ LittlerootTown_Text_YouSavedBirch:
 	.string "Eu estou tão orgulhosa!"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "Você está indo pegar POKéMON?\n"
+	.string "Boa sorte!$"
 
 LittlerootTown_Text_TownSign:
 	.string "LITTLEROOT TOWN\n"
