@@ -971,12 +971,12 @@ LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "at home?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
-	.string "Na, na, ni, na, não!\p"
+	.string "Na, na, ni, na, näo!\p"
 	.string "Se você sair e ir pra grama,\n"
-	.string "POKéMONs selvagens aparecerão!$"
+	.string "POKéMONs selvagens apareceräo!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-	.string "Vai ser perigoso se você não\n"
+	.string "Vai ser perigoso se você näo\n"
 	.string "tiver nenhum POKéMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
@@ -990,7 +990,7 @@ LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 
 LittlerootTown_Text_YouSavedBirch:
 	.string "Você salvou o PROF. BIRCH!\n"
-	.string "Eu estou tão orgulhosa!"
+	.string "Eu estou täo orgulhosa!"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
 	.string "Você está indo pegar POKéMON?\n"
