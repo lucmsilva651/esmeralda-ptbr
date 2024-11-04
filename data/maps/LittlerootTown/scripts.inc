@@ -971,9 +971,9 @@ LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "at home?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
-	.string "Um, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild POKéMON will jump out!$"
+	.string "Na, na, ni, na, não!\p"
+	.string "Se você sair e ir pra grama,\n"
+	.string "POKéMONs selvagens aparecerão!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
 	.string "It's dangerous if you don't have\n"
