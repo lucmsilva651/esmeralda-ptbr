@@ -976,8 +976,8 @@ LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "POKéMONs selvagens aparecerão!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-	.string "It's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "Vai ser perigoso se você não\n"
+	.string "tiver nenhum POKéMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 	.string "Um, hi!\p"
