@@ -922,10 +922,10 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "Vamos pra dentro.$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MOM: Espera, {PLAYER}!$"
+	.string "MäE: Espera, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "MOM: {PLAYER}! {PLAYER}! Você\n"
+	.string "MäE: {PLAYER}! {PLAYER}! Você\n"
 	.string "se introduziu pro PROF. BIRCH?\p"
 	.string "Ah! Que POKéMON adorável!\n"
 	.string "Você pegou ele com o PROF. BIRCH. Que bom!\p"
@@ -936,16 +936,17 @@ LittlerootTown_Text_WearTheseRunningShoes:
 	.string "Eles daräo um toque em seu passo!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} trocou de sapatos com o\n"
+	.string "{PLAYER} trocou de tênis com o\n"
 	.string "TêNIS DE CORRIDA.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "MäE: {PLAYER}, esses tênis vieram\n"
+	.string "com instruçöes.\p"
+	.string "“Segure o botão B enquanto estiver\n"
+	.string "com os TêNIS DE CORRIDA para correr\n"
+	.string "super rápido!”\p"
+	.string "“Use esses TêNIS DE CORRIDA e corra
+	.string "mundo afora!”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
