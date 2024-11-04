@@ -1004,10 +1004,10 @@ LittlerootTown_Text_ProfBirchsLab:
 	.string "LABORATóRIO POKéMON do PROF. BIRCH$"
 
 LittlerootTown_Text_PlayersHouse:
-	.string "CASA DE {PLAYER}$"
+	.string "{PLAYER}'s HOUSE$"
 
 LittlerootTown_Text_ProfBirchsHouse:
-	.string "PROF. BIRCH'S HOUSE$"
+	.string "CASA DO PROF. BIRCH$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
