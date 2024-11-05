@@ -46,7 +46,7 @@ jobs:
         run: make -j${nproc} all
 
       - name: Rename to debug name
-        run: mv "$ROM_FILE" "$CI_ROM_NAME"
+        run: mv "$ROM_FILE" "$CI_ROM_FILE"
 
       - name: Post to Telegram
         run: |
@@ -61,7 +61,7 @@ jobs:
       - name: Upload to GitHub Releases
         uses: svenstaro/upload-release-action@v2
         with:
-          repo_token: ${REPO_TOKEN
+          repo_token: $REPO_TOKEN
           file: $CI_ROM_FILE
           asset_name: $CI_ROM_FILE
           tag: "release-ci-$RUN_NUMBER"
