@@ -942,10 +942,10 @@ LittlerootTown_Text_SwitchShoesWithRunningShoes:
 LittlerootTown_Text_ExplainRunningShoes:
 	.string "MäE: {PLAYER}, esses tênis vieram\n"
 	.string "com instruçöes.\p"
-	.string "“Segure o botão B enquanto estiver\n"
+	.string "“Segure o botäo B enquanto estiver\n"
 	.string "com os TêNIS DE CORRIDA para correr\n"
 	.string "super rápido!”\p"
-	.string "“Use esses TêNIS DE CORRIDA e corra
+	.string "“Use esses TêNIS DE CORRIDA e saia\n"
 	.string "mundo afora!”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
@@ -1019,4 +1019,3 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "I gave you?\p"
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
-
