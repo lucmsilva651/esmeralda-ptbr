@@ -49,7 +49,7 @@ jobs:
       - name: Post to Telegram
         run: |
           cp $ROM_FILE $CI_ROM_FILE
-          POST_MSG="Nova Build do Pokémon Emerald em PT-BR\nCommit: ${{ env.COMMIT_MESSAGE }}\nAutor: ${{ env.COMMIT_AUTHOR}}\nURL: ${{ env.COMMIT_URL}}"
+          POST_MSG="Nova Build do Pokémon Emerald em PT-BR%0A%0ACommit: ${{ env.COMMIT_MESSAGE }}%0AAutor: ${{ env.COMMIT_AUTHOR}}%0AURL: ${{ env.COMMIT_URL}}"
           if [ ! -z "$BOT_TOKEN" ]; then
             curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
             -F "chat_id=$CHANNEL_ID" \
@@ -61,11 +61,11 @@ jobs:
       - name: Upload to GitHub Releases
         uses: svenstaro/upload-release-action@v2
         env:
-          POST_MSG: "Nova Build do Pokémon Emerald em PT-BR\nCommit: ${{ env.COMMIT_MESSAGE }}\nAutor: ${{ env.COMMIT_AUTHOR}}\nURL: ${{ env.COMMIT_URL}}"
+          POST_MSG: "Nova Build do Pokémon Emerald em PT-BR\n\nCommit: ${{ env.COMMIT_MESSAGE }}\nAutor: ${{ env.COMMIT_AUTHOR}}\nURL: ${{ env.COMMIT_URL}}"
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: ${ROM_FILE}
-          asset_name: ${CI_ROM_FILE}
-          body: ${POST_MSG}
+          file: ${{ env.ROM_FILE }}
+          asset_name: ${{ env.CI_ROM_FILE }}
+          body: ${{ env.POST_MSG }}
           tag: "release-ci-${{ github.run_number }}"
         continue-on-error: true
