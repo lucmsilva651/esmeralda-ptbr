@@ -7,7 +7,13 @@ MODERN      ?= 0
 KEEP_TEMPS  ?= 0
 
 # `File name`.gba ('_modern' will be appended to the modern builds)
-FILE_NAME := esmeralda-ptbr
+FILE_NAME := pokeemerald
+
+# Nome final para build
+ifeq ($(MAKECMDGOALS), final)
+    FILE_NAME := esmeralda-ptbr
+endif
+
 BUILD_DIR := build
 
 # Builds the ROM using a modern compiler
