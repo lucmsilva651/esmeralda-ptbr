@@ -49,13 +49,13 @@ jobs:
       - name: Post to Telegram
         run: |
           cp $ROM_FILE $CI_ROM_FILE
-          POST_MSG="Nova Build do Pokémon Emerald em PT-BR%0A%0ACommit: ${{ env.COMMIT_MESSAGE }}%0AAutor: ${{ env.COMMIT_AUTHOR}}%0AURL: ${{ env.COMMIT_URL}}"
+          POST_MSG="Nova Build do Pokémon Emerald em PT-BR\n\nCommit: ${{ env.COMMIT_MESSAGE }}\nAutor: ${{ env.COMMIT_AUTHOR}}\nURL: ${{ env.COMMIT_URL}}"
           if [ ! -z "$BOT_TOKEN" ]; then
             curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
-            -d "chat_id=$CHANNEL_ID" \
-            -d "caption=$POST_MSG" \
-            -d "parse_mode=HTML" \
-            -d "document=@$CI_ROM_FILE"
+            -F "chat_id=$CHANNEL_ID" \
+            -F "caption=$POST_MSG" \
+            -F "parse_mode=HTML" \
+            -F "document=@$CI_ROM_FILE"
           fi
         continue-on-error: true
       
