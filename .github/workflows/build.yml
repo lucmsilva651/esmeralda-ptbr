@@ -52,10 +52,10 @@ jobs:
           POST_MSG="Nova Build do Pokémon Emerald em PT-BR%0A%0ACommit: ${{ env.COMMIT_MESSAGE }}%0AAutor: ${{ env.COMMIT_AUTHOR}}%0AURL: ${{ env.COMMIT_URL}}"
           if [ ! -z "$BOT_TOKEN" ]; then
             curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
-            -F "chat_id=$CHANNEL_ID" \
-            -F "caption=$POST_MSG" \
-            -F "document=@$CI_ROM_FILE" \
-            -F "parse_mode=HTML"
+            -d "chat_id=$CHANNEL_ID" \
+            -d "caption=$POST_MSG" \
+            -d "parse_mode=HTML" \
+            -d "document=@$CI_ROM_FILE"
           fi
         continue-on-error: true
       
@@ -68,5 +68,6 @@ jobs:
           file: ${{ env.ROM_FILE }}
           asset_name: ${{ env.CI_ROM_FILE }}
           body: ${{ env.POST_MSG }}
+          promote: true
           tag: "release-ci-${{ github.run_number }}"
         continue-on-error: true
