@@ -54,7 +54,8 @@ jobs:
             curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
             -F "chat_id=$CHANNEL_ID" \
             -F "caption=$POST_MSG" \
-            -F "document=@$CI_ROM_FILE"
+            -F "document=@$CI_ROM_FILE" \
+            -F "parse_mode=HTML"
           fi
         continue-on-error: true
       
