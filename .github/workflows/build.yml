@@ -48,11 +48,11 @@ jobs:
           MODERN: 1
           COMPARE: 0
         run: make -j${nproc} all
-        
-      - name: Rename pokeemerald.gba
+
+      - name: Rename pokeemerald_modern.gba
         run: |
           GITHUB_SHA_SHORT=$(git rev-parse --short HEAD)
-          mv pokeemerald.gba esmeralda-ptbr-$GITHUB_SHA_SHORT.gba
+          mv pokeemerald_modern.gba esmeralda-ptbr-$GITHUB_SHA_SHORT.gba
 
       - name: Post to Telegram channel
         if: ${{ success() && github.ref == 'refs/heads/master' && github.ref_type != 'tag' }}
