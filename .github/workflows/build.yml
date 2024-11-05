@@ -52,7 +52,7 @@ jobs:
           if [ ! -z "$BOT_TOKEN" ]; then
             curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
             -F chat_id=$CHANNEL_ID \
-            -F caption="*Nova Build do Pokémon Emerald em PT-BR*\n\nCommit: \`${{ env.COMMIT_MESSAGE }}\`\nAutor: \`${{ env.COMMIT_AUTHOR}}\`\nURL: \`${{ env.COMMIT_URL}}\`" \
+            -F caption="*Nova Build do Pokémon Emerald em PT-BR*\\Commit: \`${{ env.COMMIT_MESSAGE }}\`\Autor: \`${{ env.COMMIT_AUTHOR}}\`\URL: \`${{ env.COMMIT_URL}}\`" \
             -F parse_mode="Markdown" \
             -F document=@$CI_ROM_FILE
           fi
