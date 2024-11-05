@@ -15,10 +15,12 @@ jobs:
       COMPARE: 1
       CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-      REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      RUN_NUMBER: ${{ github.run_number }}
+      COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+      COMMIT_URL: ${{ github.event.head_commit.url }}
+      COMMIT_AUTHOR: ${{ github.event.head_commit.author.name }}
       ROM_FILE: pokeemerald_modern.gba
       CI_ROM_FILE: esmeralda-ptbr-debug.gba
+      POST_MSG: "Nova Build do Pokémon Emerald em PT-BR\nCommit: $COMMIT_MESSAGE\nAutor: $COMMIT_AUTHOR\nURL: $COMMIT_URL"
     steps:
       - name: Checkout
         uses: actions/checkout@master
@@ -45,15 +47,13 @@ jobs:
           COMPARE: 0
         run: make -j${nproc} all
 
-      - name: Rename to debug name
-        run: mv "$ROM_FILE" "$CI_ROM_FILE"
-
       - name: Post to Telegram
         run: |
+          cp "$ROM_FILE" "$CI_ROM_FILE"
           if [ ! -z "$BOT_TOKEN" ]; then
             curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
             -F "chat_id=$CHANNEL_ID" \
-            -F "caption=$CI_ROM_FILE" \
+            -F "caption=$POST_MSG" \
             -F "document=@$CI_ROM_FILE"
           fi
         continue-on-error: true
@@ -61,7 +61,9 @@ jobs:
       - name: Upload to GitHub Releases
         uses: svenstaro/upload-release-action@v2
         with:
-          repo_token: $REPO_TOKEN
-          file: $CI_ROM_FILE
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: $ROM_FILE
           asset_name: $CI_ROM_FILE
-          tag: "release-ci-$RUN_NUMBER"
+          body: $POST_MSG
+          tag: "release-ci-${{ github.run_number }}"
+        continue-on-error: true
