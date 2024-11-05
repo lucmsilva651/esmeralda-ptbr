@@ -3,7 +3,6 @@ name: CI
 on:
   push:
     branches: [ master ]
-  pull_request:
 
 jobs:
   build:
@@ -44,9 +43,6 @@ jobs:
           ./install.sh ../
         working-directory: agbcc
 
-      - name: Compare
-        run: make -j${nproc} all syms
-
       - name: Modern
         env:
           MODERN: 1
@@ -67,3 +63,44 @@ jobs:
           cwd: "./symbols"
           add: "*.sym"
           message: ${{ env.SYMBOLS_COMMIT_MSG }}
+
+      - name: Rename pokeemerald.gba
+        run: |
+          GITHUB_SHA_SHORT=$(git rev-parse --short HEAD)
+          mv pokeemerald.gba esmeralda-ptbr-$GITHUB_SHA_SHORT.gba
+
+      - name: Post to Telegram channel
+        if: ${{ success() && github.ref == 'refs/heads/master' && github.ref_type != 'tag' }}
+        env:
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+          COMMIT_AUTHOR: ${{ github.event.head_commit.author.name }}
+        run: |
+          if [ ! -z "${{ secrets.BOT_TOKEN }}" ]; then
+            GITHUB_SHA_SHORT=$(git rev-parse --short HEAD)
+            export output=esmeralda-ptbr-$GITHUB_SHA_SHORT.gba
+            export LOG=$(cat changelog.txt)
+            TELEGRAM_CAPTION="Novo Build: esmeralda-ptbr-$GITHUB_SHA_SHORT.gba%0ACommit: ${{ github.event.head_commit.message }}%0AAutor: ${{ github.event.head_commit.author.name }}%0ACommit URL: ${{ github.event.head_commit.url }}"
+            curl "https://api.telegram.org/bot${BOT_TOKEN}/sendMediaGroup?chat_id=${CHANNEL_ID}&media=%5B%7B%22type%22%3A%22document%22%2C%20%22media%22%3A%22attach%3A%2F%2Foutput%22%2C%22caption%22:%22${TELEGRAM_CAPTION}%22%7D%5D" -F output="@$output"
+          fi
+        continue-on-error: true
+
+      - name: Upload to GitHub Releases (as pre-release)
+        uses: svenstaro/upload-release-action@v2
+        env:
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+          COMMIT_AUTHOR: ${{ github.event.head_commit.author.name }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: esmeralda-ptbr-${{ github.sha }}.gba
+          asset_name: esmeralda-ptbr-${{ github.sha }}.gba
+          tag: ${{ github.sha }}
+          release_name: "Release ${{ github.sha }}"
+          body: |
+            **Novo build disponível:**
+            - **Commit**: ${{ github.event.head_commit.message }}
+            - **Autor**: ${{ github.event.head_commit.author.name }}
+            - [Ver Commit](${{ github.event.head_commit.url }})
