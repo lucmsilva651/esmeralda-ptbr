@@ -986,7 +986,7 @@ LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 	.string "Tem POKéMONs assustadores lá fora!\n"
 	.string "Eu posso escutar eles!\p"
 	.string "Eu quero ir lá ver o que tá acontecendo,\n"
-	.string "mas eu não tenho nenhum POKéMON…\l"
+	.string "mas eu näo tenho nenhum POKéMON…\l"
 	.string "Você consegue ir ver o que tá\n"
 	.string "acontecendo pra mim?$"
 
