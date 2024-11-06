@@ -302,13 +302,13 @@ PlayersHouse_1F_Text_MoversPokemonGoSetClock:
 	.string "Näo se esqueça de arrumar a hora dele!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "MOM: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "MäE: Ué, {PLAYER}?\p"
+	.string "Näo tá interessado em ver seu\n"
+	.string "próprio quarto?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "MäE: {PLAYER}.\p"
+	.string "Vai lá arrumar o relógio, querido.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
 	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
