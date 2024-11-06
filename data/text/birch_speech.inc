@@ -45,7 +45,7 @@ gText_Birch_SoItsPlayer::
 gText_Birch_YourePlayer::
 	.string "Ah, entendi!\p"
 	.string "Você é {PLAYER}{KUN}, que está se mudando\n"
-	.string "para minha cidade natal, LITTLEROOT.\l"
+	.string "para minha vila natal, LITTLEROOT.\l"
 	.string "Agora entendi!\p"
 	.string "$"
 

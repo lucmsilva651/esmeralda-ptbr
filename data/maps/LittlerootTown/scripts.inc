@@ -913,7 +913,7 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "MäE: {PLAYER}, chegamos, querido!\p"
 	.string "A viagem com as nossas coisas no\n"
 	.string "caminhäo deve ter sido cansativa.\p"
-	.string "Bem, essa é a cidade de LITTLEROOT.\p"
+	.string "Bem, essa é a vila de LITTLEROOT.\p"
 	.string "Você gostou?\n"
 	.string "Essa é a nossa nova casa!\p"
 	.string "Tem um estilo peculiar, mas parece ser um\n"
