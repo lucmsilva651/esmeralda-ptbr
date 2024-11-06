@@ -46,18 +46,6 @@ jobs:
           COMPARE: 0
         run: make -j${nproc} all
 
-      - name: Post to Telegram
-        run: |
-          cp $ROM_FILE $CI_ROM_FILE
-          if [ ! -z "$BOT_TOKEN" ]; then
-            curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
-            -F chat_id=$CHANNEL_ID \
-            -F caption="Nova Build do Pokémon Emerald em PT-BR&nbsp;&nbsp;Commit: ${{ env.COMMIT_MESSAGE }}&nbsp;Autor: ${{ env.COMMIT_AUTHOR}}&nbsp;URL: ${{ env.COMMIT_URL}}" \
-            -F parse_mode="HTML" \
-            -F document=@$CI_ROM_FILE
-          fi
-        continue-on-error: true
-      
       - name: Upload to GitHub Releases
         uses: svenstaro/upload-release-action@v2
         env:
@@ -69,4 +57,26 @@ jobs:
           body: ${{ env.POST_MSG }}
           promote: true
           tag: "release-ci-${{ github.run_number }}"
+        continue-on-error: true
+
+      - name: Get Release URL
+        run: |
+          latest_release_url=$(curl -s \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/releases/latest \
+            | jq -r '.html_url')
+          
+          echo "latest_release_url=$latest_release_url" >> $GITHUB_ENV
+
+      - name: Post to Telegram
+        run: |
+          cp $ROM_FILE $CI_ROM_FILE
+          POST_MSG="Nova Build do Pokémon Emerald em PT-BR: ${{ env.latest_release_url }}"
+
+          if [ ! -z "$BOT_TOKEN" ]; then
+            curl -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendDocument" \
+            -F chat_id=$CHANNEL_ID \
+            -F caption=$POST_MSG \
+            -F document=@$CI_ROM_FILE
+          fi
         continue-on-error: true
