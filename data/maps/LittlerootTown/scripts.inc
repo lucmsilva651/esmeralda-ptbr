@@ -982,13 +982,13 @@ LittlerootTown_Text_DangerousIfYouDontHavePokemon:
 	.string "tiver nenhum POKéMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
-	.string "Um, hi!\p"
-	.string "There are scary POKéMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
+	.string "Hmm, oi!\p"
+	.string "Tem POKéMONs assustadores lá fora!\n"
+	.string "Eu posso escutar eles!\p"
+	.string "Eu quero ir lá ver o que tá acontecendo,\n"
+	.string "mas eu não tenho nenhum POKéMON…\l"
+	.string "Você consegue ir ver o que tá\n"
+	.string "acontecendo pra mim?$"
 
 LittlerootTown_Text_YouSavedBirch:
 	.string "Você salvou o PROF. BIRCH!\n"
