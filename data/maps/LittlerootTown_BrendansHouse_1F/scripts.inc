@@ -325,35 +325,35 @@ PlayersHouse_1F_Text_ItsOverWeMissedHim:
 	.string "Que pena.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Oh, yes.\n"
-	.string "One of PAI's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "Ah, sim.\n"
+	.string "Um dos amigos do seu PAI vive na vila.\p"
+	.string "PROF. BIRCH é o nome dele.\p"
+	.string "Ele mora ali em baixo, entäo você\n"
+	.string "deveria ir e se apresentar pra ele.$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-	.string "MäE: See you, honey!$"
+	.string "MäE: Te vejo mais tarde, querido!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-	.string "MäE: Did you introduce yourself to\n"
+	.string "MäE: Você se apresentou pro\n"
 	.string "PROF. BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MäE: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "MäE: Como você está, {PLAYER}?\n"
+	.string "Você parece um pouco cansado.\p"
+	.string "Eu acho que você devia descansar.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
-	.string "MäE: Take care, honey!$"
+	.string "MäE: Tome cuidado, querido!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MäE: Oh? Did PAI give you that BADGE?\p"
-	.string "Then here's something from your MäE!$"
+	.string "MäE: Eh? O seu PAI te deu essa INSíGNIA?\p"
+	.string "Entäo aqui está algo da sua MäE!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "Näo se force tanto, querido.\n"
+	.string "Você pode sempre voltar pra casa.\p"
+	.string "Agora vai lá, querido!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
 	.string "MäE: What is that, honey? A POKéNAV?\n"
