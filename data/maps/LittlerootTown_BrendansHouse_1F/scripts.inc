@@ -288,18 +288,18 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "MäE: Viu, {PLAYER}?\n"
+	.string "Näo é legal aqui também?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "Os POKéMON fazem todo o trabalho\n"
+	.string "de mover a gente e limpar tudo depois.\l"
+	.string "Isso é täo conveniente!\p"
+	.string "{PLAYER}, seu quarto é lá em cima.\n"
+	.string "Vai lá dar uma olhada, querido!\p"
+	.string "O seu PAI comprou um relógio novo\n"
+	.string "pra marcar a nossa mudança pra cá.\l"
+	.string "Näo se esqueça de arrumar a hora dele!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
 	.string "MOM: Well, {PLAYER}?\p"
