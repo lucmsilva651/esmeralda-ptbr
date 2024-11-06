@@ -965,11 +965,12 @@ LittlerootTown_Text_CanUsePCToStoreItems:
 	.string "O poder da ciência é impressionante!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "PROF. BIRCH passa dias no seu\n"
+	.string "LABORATóRIO estudando, e entäo\l"
+	.string "simplesmente sai pra fazer mais\n"
+	.string "pesquisas…\p"
+	.string "Quando que o PROF. BIRCH fica\l"
+	.string "em casa?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "Na, na, ni, na, näo!\p"
