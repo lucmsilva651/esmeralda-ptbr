@@ -315,13 +315,14 @@ PlayersHouse_1F_Text_OhComeQuickly:
 	.string "Rápido! Vem cá!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MäE: Olha! É o GINÁSIO DE PETALBURG!\n"
+	.string "MäE: Olha! É o GINáSIO DE PETALBURG!\n"
 	.string "Talvez seu PAI esteja lá!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "MäE: Oh… It's over.\p"
-	.string "I think PAI was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "MäE: Ahh… Acabou.\p"
+	.string "Eu achei que seu PAI estava lá,\l"
+	.string "mas nós perdemos ele.\n"
+	.string "Que pena.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
 	.string "Oh, yes.\n"
