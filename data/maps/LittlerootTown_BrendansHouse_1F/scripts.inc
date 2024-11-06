@@ -311,12 +311,12 @@ PlayersHouse_1F_Text_GoSetTheClock:
 	.string "Vai lá arrumar o relógio, querido.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "MäE: Ah! {PLAYER}, {PLAYER}!\n"
+	.string "Rápido! Vem cá!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "MäE: Olha! É o GINÁSIO DE PETALBURG!\n"
+	.string "Talvez seu PAI esteja lá!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
 	.string "MOM: Oh… It's over.\p"
