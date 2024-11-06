@@ -951,12 +951,13 @@ LittlerootTown_Text_ExplainRunningShoes:
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "E agora que você tem seu próprio\n"
+	.string "POKéMON agora…\l"
+	.string "Seu pai vai ficar orgulhoso.\p"
+	.string "…Mas por favor, tome cuidado.\n"
+	.string "Se algo acontecer, você pode vir\n"
+	.string "para casa.\n"
+	.string "Vai lá, e pega eles, querido!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
 	.string "Se você usar um PC, você pode\n"
