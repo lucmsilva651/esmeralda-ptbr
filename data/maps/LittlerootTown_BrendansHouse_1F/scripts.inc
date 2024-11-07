@@ -328,7 +328,7 @@ PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
 	.string "Ah, sim.\n"
 	.string "Um dos amigos do seu PAI vive na vila.\p"
 	.string "PROF. BIRCH é o nome dele.\p"
-	.string "Ele mora ali em baixo, entäo você\n"
+	.string "Ele mora ali do lado, entäo você\n"
 	.string "deveria ir e se apresentar pra ele.$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
