@@ -811,10 +811,10 @@ Route110_TrickHouseEntrance_Text_PCFullAgain:
 	.string "MEAN, YOU ARE.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
-	.string "{PLAYER} found a scroll.$"
+	.string "{JOGADOR} found a scroll.$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
-	.string "{PLAYER} memorized the secret code\n"
+	.string "{JOGADOR} memorized the secret code\n"
 	.string "written on the scroll.$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:

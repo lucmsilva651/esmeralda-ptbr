@@ -284,7 +284,7 @@ DewfordTown_Gym_EventScript_GymStatue::
 
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
+	.string "bound {JOGADOR}?\p"
 	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
 	.string "FIGHTING-type POKéMON.\p"
 	.string "Going against him with NORMAL-type\n"
@@ -396,7 +396,7 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Take this GYM BADGE!$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
+	.string "{JOGADOR} received the KNUCKLE BADGE\n"
 	.string "from BRAWLY.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
@@ -429,7 +429,7 @@ DewfordTown_Gym_Text_GymStatue:
 DewfordTown_Gym_Text_GymStatueCertified:
 	.string "DEWFORD TOWN POKéMON GYM\p"
 	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
+	.string "{JOGADOR}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
 	.string "BRAWLY: A wave may draw back, but it\n"

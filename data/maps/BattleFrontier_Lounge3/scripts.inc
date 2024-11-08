@@ -434,7 +434,7 @@ BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints::
 	.string "of course, a little extra from me!$"
 
 BattleFrontier_Lounge3_Text_ObtainedBattlePoints::
-	.string "{PLAYER} obtained\n"
+	.string "{JOGADOR} obtained\n"
 	.string "{STR_VAR_1} Battle Points.$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge::

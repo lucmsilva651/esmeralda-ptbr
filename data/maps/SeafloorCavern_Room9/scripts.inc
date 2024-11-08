@@ -322,5 +322,5 @@ SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
 	.string "world that we desired!$"
 
 SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
-	.string "MAXIE: {PLAYER}, come on, you have\n"
+	.string "MAXIE: {JOGADOR}, come on, you have\n"
 	.string "to get out of here, too!$"

@@ -33,7 +33,7 @@ Questionnaire_Text_YouCanAccessMysteryEvent::
 MysteryGift_Text_TheresATicketForYou::
 	.string "Thank you for using the MYSTERY\n"
 	.string "EVENT System.\p"
-	.string "You must be {PLAYER}.\n"
+	.string "You must be {JOGADOR}.\n"
 	.string "There is a ticket here for you.$"
 
 MysteryGift_Text_TryUsingItAtLilycovePort::

@@ -63,15 +63,15 @@ gText_ApprenticeChallenge15::
 	.string "and that's no lie.$"
 
 gText_ApprenticePleaseTeach0::
-	.string "Are you… {PLAYER}?\n"
+	.string "Are you… {JOGADOR}?\n"
 	.string "Oh! Sniff…sob…\p"
 	.string "Oh! S-sorry…\n"
 	.string "I'm so nervous, I can't help crying…\p"
 	.string "I'm {STR_VAR_1}, and I really look up\n"
-	.string "to you, {PLAYER}.\p"
+	.string "to you, {JOGADOR}.\p"
 	.string "I… I had this dream of one day meeting\n"
 	.string "you and asking you about POKéMON.\p"
-	.string "Please, please, {PLAYER}!\n"
+	.string "Please, please, {JOGADOR}!\n"
 	.string "Please teach me about POKéMON!$"
 
 gText_ApprenticeRejectTeaching0::
@@ -101,11 +101,11 @@ gText_ApprenticeLevelModeThanks0::
 	.string "Please talk with me again!$"
 
 gText_ApprenticePleaseTeach1::
-	.string "Wowee! You're {PLAYER}, aren't you?\n"
+	.string "Wowee! You're {JOGADOR}, aren't you?\n"
 	.string "You're awesomely strong, aren't you?\p"
 	.string "I'm {STR_VAR_1}!\n"
 	.string "I just became a TRAINER!\p"
-	.string "Please, {PLAYER}!\n"
+	.string "Please, {JOGADOR}!\n"
 	.string "Can you be my teacher and tell me\l"
 	.string "lots about being a TRAINER?$"
 
@@ -128,13 +128,13 @@ gText_ApprenticeLevelModeThanks1::
 	.string "me something else, teacher!$"
 
 gText_ApprenticePleaseTeach2::
-	.string "Um… Are you {PLAYER}?\n"
+	.string "Um… Are you {JOGADOR}?\n"
 	.string "My name is {STR_VAR_1}.\p"
 	.string "I want to become a POKéMON TRAINER,\n"
 	.string "but I don't know what to do…\p"
 	.string "So I thought maybe I could ask you for\n"
 	.string "advice because you're so famous.\p"
-	.string "{PLAYER}, could you give me advice?$"
+	.string "{JOGADOR}, could you give me advice?$"
 
 gText_ApprenticeRejectTeaching2::
 	.string "Oh, but…\p"
@@ -160,8 +160,8 @@ gText_ApprenticePleaseTeach3::
 	.string "Oh? Huh? You're…\n"
 	.string "No, that can't be true.\p"
 	.string "There isn't any way that someone\n"
-	.string "like me could meet {PLAYER}.\p"
-	.string "…You really are {PLAYER}?\n"
+	.string "like me could meet {JOGADOR}.\p"
+	.string "…You really are {JOGADOR}?\n"
 	.string "I can't believe I'm talking to you!\p"
 	.string "When something this good happens,\n"
 	.string "only terrible things will happen to me\l"
@@ -173,7 +173,7 @@ gText_ApprenticePleaseTeach3::
 	.string "I shouldn't even say anything about\n"
 	.string "myself because you'll forget…\p"
 	.string "I had this dream that if I ever met\n"
-	.string "you, {PLAYER}, that maybe I could ask\l"
+	.string "you, {JOGADOR}, that maybe I could ask\l"
 	.string "you for advice as a TRAINER.\p"
 	.string "But I don't think you would agree\n"
 	.string "to that.\p"
@@ -212,7 +212,7 @@ gText_ApprenticeLevelModeThanks3::
 	.string "time with someone like me.$"
 
 gText_ApprenticePleaseTeach4::
-	.string "Oh! You're {PLAYER}{KUN}, aren't you?\p"
+	.string "Oh! You're {JOGADOR}{KUN}, aren't you?\p"
 	.string "I've heard that you're tough at\n"
 	.string "POKéMON!\p"
 	.string "I'm {STR_VAR_1}!\n"
@@ -235,19 +235,19 @@ gText_ApprenticeWhichLevelMode4::
 	.string "You know that the BATTLE TOWER has\n"
 	.string "Level 50 and Open Level Rooms?\p"
 	.string "Which do you think would be good\n"
-	.string "for me, {PLAYER}{KUN}?$"
+	.string "for me, {JOGADOR}{KUN}?$"
 
 gText_ApprenticeLevelModeThanks4::
 	.string "Okay, {STR_VAR_1} is suitable for me?\n"
 	.string "Thank you!\p"
 	.string "Knowing that you made the decision,\n"
-	.string "{PLAYER}{KUN}, I won't be so upset if\l"
+	.string "{JOGADOR}{KUN}, I won't be so upset if\l"
 	.string "I lose.\p"
 	.string "Okay, I'll look to you for advice again.\n"
 	.string "Bye!$"
 
 gText_ApprenticePleaseTeach5::
-	.string "Oh, hi, there! {PLAYER}{KUN}!\n"
+	.string "Oh, hi, there! {JOGADOR}{KUN}!\n"
 	.string "I know you because you're famous!\l"
 	.string "Call me {STR_VAR_1}! Glad to meet you!\p"
 	.string "I'm a TRIATHLETE, so I keep myself\n"
@@ -258,13 +258,13 @@ gText_ApprenticePleaseTeach5::
 	.string "me to become a decent TRAINER.\p"
 	.string "So, I have a proposition!\p"
 	.string "There must be a reason why we met.\n"
-	.string "So, {PLAYER}{KUN}, how about sharing your\l"
+	.string "So, {JOGADOR}{KUN}, how about sharing your\l"
 	.string "wisdom with me every so often?$"
 
 gText_ApprenticeRejectTeaching5::
 	.string "Oh, but, please?\n"
 	.string "A guy like me needs someone like\l"
-	.string "you, {PLAYER}{KUN}!\p"
+	.string "you, {JOGADOR}{KUN}!\p"
 	.string "Honestly, I need your advice!$"
 
 gText_ApprenticeWhichLevelMode5::
@@ -284,14 +284,14 @@ gText_ApprenticeLevelModeThanks5::
 
 gText_ApprenticePleaseTeach6::
 	.string "No way! Uh-uh!\n"
-	.string "Are you maybe the real {PLAYER}?\p"
+	.string "Are you maybe the real {JOGADOR}?\p"
 	.string "A-hah! Awesome! I'm {STR_VAR_1},\n"
 	.string "so pleased to meet you!\p"
-	.string "{PLAYER}, you're very strong,\n"
+	.string "{JOGADOR}, you're very strong,\n"
 	.string "aren't you?\p"
 	.string "Everyone's talking about you!\p"
 	.string "Oh! I just had this great idea!\n"
-	.string "I'll get advice off you, {PLAYER}!\l"
+	.string "I'll get advice off you, {JOGADOR}!\l"
 	.string "I'm sure it will make me tougher!\p"
 	.string "Isn't it a great idea?\n"
 	.string "Please, I want your advice!$"
@@ -303,7 +303,7 @@ gText_ApprenticeRejectTeaching6::
 
 gText_ApprenticeWhichLevelMode6::
 	.string "Yay! I knew you'd have a big heart,\n"
-	.string "{PLAYER}!\p"
+	.string "{JOGADOR}!\p"
 	.string "What should I ask you first?\n"
 	.string "…Oh, I thought of something!\p"
 	.string "Drum roll, please!\n"
@@ -324,7 +324,7 @@ gText_ApprenticeLevelModeThanks6::
 
 gText_ApprenticePleaseTeach7::
 	.string "I beg your pardon, but…\n"
-	.string "Are you {PLAYER}?\p"
+	.string "Are you {JOGADOR}?\p"
 	.string "I'm {STR_VAR_1}, and I am delighted to\n"
 	.string "make your acquaintance.\p"
 	.string "I have long been an admirer\n"
@@ -333,7 +333,7 @@ gText_ApprenticePleaseTeach7::
 	.string "Um… I hope you don't find this\n"
 	.string "request too much of a burden, but…\p"
 	.string "May I become your apprentice,\n"
-	.string "{PLAYER}?$"
+	.string "{JOGADOR}?$"
 
 gText_ApprenticeRejectTeaching7::
 	.string "Oh…!\p"
@@ -357,34 +357,34 @@ gText_ApprenticeWhichLevelMode7::
 gText_ApprenticeLevelModeThanks7::
 	.string "{STR_VAR_1} is your choice!\n"
 	.string "I see. I will do my best!\p"
-	.string "Thank you, {PLAYER}.\n"
+	.string "Thank you, {JOGADOR}.\n"
 	.string "I hope I can count on you again.\l"
 	.string "Please take care!$"
 
 gText_ApprenticePleaseTeach8::
-	.string "Eek! Eek! {PLAYER}!\n"
+	.string "Eek! Eek! {JOGADOR}!\n"
 	.string "You spoke to me!\l"
 	.string "I… I'm overjoyed!\p"
 	.string "Me! My name is {STR_VAR_1}!\n"
 	.string "I just became a TRAINER!\p"
-	.string "I'm delighted I met you, {PLAYER},\n"
+	.string "I'm delighted I met you, {JOGADOR},\n"
 	.string "the big name in POKéMON circles!\p"
 	.string "Oh-oh-oh, I know!\n"
-	.string "May I ask a huge favor, {PLAYER}?\p"
+	.string "May I ask a huge favor, {JOGADOR}?\p"
 	.string "Please take me in as your apprentice!\n"
 	.string "I want to learn from you!$"
 
 gText_ApprenticeRejectTeaching8::
 	.string "Waaaah!\n"
-	.string "{PLAYER} turned me down…\l"
+	.string "{JOGADOR} turned me down…\l"
 	.string "It… It's an invaluable experience!\p"
-	.string "{PLAYER}, please! I want to hear\n"
+	.string "{JOGADOR}, please! I want to hear\n"
 	.string "an affirmative answer this time!\p"
 	.string "I beg you for your guidance!$"
 
 gText_ApprenticeWhichLevelMode8::
-	.string "Hieeeeh! {PLAYER} said yes!\n"
-	.string "{PLAYER} said yes!\p"
+	.string "Hieeeeh! {JOGADOR} said yes!\n"
+	.string "{JOGADOR} said yes!\p"
 	.string "I won't be able to sleep tonight…\n"
 	.string "Thank you ever so much!\p"
 	.string "Then, here's my question!\p"
@@ -400,15 +400,15 @@ gText_ApprenticeLevelModeThanks8::
 
 gText_ApprenticePleaseTeach9::
 	.string "Whoa! Could you be…\n"
-	.string "Might you be… {PLAYER}{KUN}?!\l"
+	.string "Might you be… {JOGADOR}{KUN}?!\l"
 	.string "That strong and famous TRAINER?\l"
 	.string "Well, hello, aren't I just the luckiest!\p"
 	.string "Hello, the name's {STR_VAR_1}!\p"
 	.string "I've been on the lookout for\n"
 	.string "a POKéMON teacher.\p"
 	.string "And with impeccably good timing,\n"
-	.string "along came you, {PLAYER}{KUN}!\p"
-	.string "So, there you have it, {PLAYER}{KUN}!\n"
+	.string "along came you, {JOGADOR}{KUN}!\p"
+	.string "So, there you have it, {JOGADOR}{KUN}!\n"
 	.string "Let me apprentice under you!$"
 
 gText_ApprenticeRejectTeaching9::
@@ -433,7 +433,7 @@ gText_ApprenticeLevelModeThanks9::
 	.string "Adios!$"
 
 gText_ApprenticePleaseTeach10::
-	.string "Oh, hey, {PLAYER}{KUN}, right?\n"
+	.string "Oh, hey, {JOGADOR}{KUN}, right?\n"
 	.string "The police were looking for you!\p"
 	.string "… … …\n"
 	.string "Of course I'm lying!\p"
@@ -481,7 +481,7 @@ gText_ApprenticePleaseTeach11::
 	.string "Your turn now, tell me a little about\n"
 	.string "yourself, give it a try!\p"
 	.string "Uh-huh, uh-huh!\n"
-	.string "{PLAYER}{KUN}'s your name,\l"
+	.string "{JOGADOR}{KUN}'s your name,\l"
 	.string "and POKéMON's your game!\p"
 	.string "And you're at a delicate age\n"
 	.string "when all the world's your stage!\p"
@@ -499,7 +499,7 @@ gText_ApprenticeRejectTeaching11::
 
 gText_ApprenticeWhichLevelMode11::
 	.string "That's it!\n"
-	.string "{PLAYER}, you've got the spirit!\p"
+	.string "{JOGADOR}, you've got the spirit!\p"
 	.string "So here's my first question\n"
 	.string "that begs your suggestion!\p"
 	.string "It's about the BATTLE TOWER,\n"
@@ -511,13 +511,13 @@ gText_ApprenticeLevelModeThanks11::
 	.string "Okay, {STR_VAR_1} it is, you say!\n"
 	.string "I'll go and take it on my way!\p"
 	.string "If it's advice I ever need,\n"
-	.string "{PLAYER}, your word I'll always heed!$"
+	.string "{JOGADOR}, your word I'll always heed!$"
 
 gText_ApprenticePleaseTeach12::
-	.string "Say, hey, aren't you {PLAYER}?\n"
+	.string "Say, hey, aren't you {JOGADOR}?\n"
 	.string "What should I do? Talk to you?\l"
 	.string "Why not? I'm already talking to you!\p"
-	.string "{PLAYER}, are you surprised at me?\n"
+	.string "{JOGADOR}, are you surprised at me?\n"
 	.string "I'd better tell you who I happen to be!\p"
 	.string "{STR_VAR_1} is what you can call me.\n"
 	.string "The brightest star in guitardom,\l"
@@ -526,13 +526,13 @@ gText_ApprenticePleaseTeach12::
 	.string "You are receiving me!\p"
 	.string "My luck's at its best,\n"
 	.string "I'll hit you with a request!\p"
-	.string "{PLAYER}, let me be your underling!\n"
+	.string "{JOGADOR}, let me be your underling!\n"
 	.string "I want you to teach me everything!$"
 
 gText_ApprenticeRejectTeaching12::
 	.string "You're turning me down, then?\n"
 	.string "I'll just have to ask you again!\p"
-	.string "{PLAYER}, I beg to be your underling!\n"
+	.string "{JOGADOR}, I beg to be your underling!\n"
 	.string "I need you to teach me everything!$"
 
 gText_ApprenticeWhichLevelMode12::
@@ -546,7 +546,7 @@ gText_ApprenticeWhichLevelMode12::
 gText_ApprenticeLevelModeThanks12::
 	.string "If {STR_VAR_1} is what you suggest,\n"
 	.string "it must be the very best!\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me.\p"
 	.string "See you again, my smart friend!$"
 
@@ -560,7 +560,7 @@ gText_ApprenticePleaseTeach13::
 	.string "not built to take the abuse…\p"
 	.string "I decided I'll battle POKéMON and\n"
 	.string "toughen myself up.\p"
-	.string "You're {PLAYER}{KUN}, aren't you?\n"
+	.string "You're {JOGADOR}{KUN}, aren't you?\n"
 	.string "The POKéMON LEAGUE CHAMP?\p"
 	.string "Listen, can I get you to give me\n"
 	.string "advice?$"
@@ -586,7 +586,7 @@ gText_ApprenticeLevelModeThanks13::
 
 gText_ApprenticePleaseTeach14::
 	.string "Er… Um…\n"
-	.string "{PLAYER}{KUN}…?\p"
+	.string "{JOGADOR}{KUN}…?\p"
 	.string "Please, don't look at me that way.\n"
 	.string "You're making me all self-conscious.\p"
 	.string "I… I'm {STR_VAR_1}.\p"
@@ -594,7 +594,7 @@ gText_ApprenticePleaseTeach14::
 	.string "but I explore ancient ruins and such.\p"
 	.string "I'm even more embarrassed to admit\n"
 	.string "I'm interested in the BATTLE FRONTIER.\p"
-	.string "{PLAYER}{KUN}, you have a reputation as\n"
+	.string "{JOGADOR}{KUN}, you have a reputation as\n"
 	.string "a tough TRAINER…\p"
 	.string "It's hard for me to say this,\n"
 	.string "but I want to ask something.\p"
@@ -621,18 +621,18 @@ gText_ApprenticeLevelModeThanks14::
 	.string "I'll try my hand at that.\p"
 	.string "I hope I can make a valiant challenge\n"
 	.string "without getting all flustered…\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "If we meet again, I hope you will be\l"
 	.string "as helpful.$"
 
 gText_ApprenticePleaseTeach15::
-	.string "Hm? You appear to be {PLAYER}{KUN}…\n"
+	.string "Hm? You appear to be {JOGADOR}{KUN}…\n"
 	.string "But are you really real?\p"
 	.string "You may call me {STR_VAR_1}.\p"
 	.string "I have been toying with the idea of\n"
 	.string "apprenticing under a strong TRAINER.\p"
 	.string "So, I must say I'm lucky you came along!\n"
-	.string "…You really are {PLAYER}{KUN}, yes?\p"
+	.string "…You really are {JOGADOR}{KUN}, yes?\p"
 	.string "No, no, if you are real, it's fine.\n"
 	.string "I merely want you to recognize me\l"
 	.string "as your apprentice.$"
@@ -665,12 +665,12 @@ gText_ApprenticeLevelModeThanks15::
 
 gText_ApprenticeWhatHeldItem0::
 	.string "Sigh… Sob…\n"
-	.string "Oh, {PLAYER}!\p"
+	.string "Oh, {JOGADOR}!\p"
 	.string "I'm all tangled up in a dilemma\n"
 	.string "that I can't decide.\p"
 	.string "I can't decide what I should make\n"
 	.string "my {STR_VAR_1} hold.\p"
-	.string "Please tell me, {PLAYER}.\n"
+	.string "Please tell me, {JOGADOR}.\n"
 	.string "What item should I make it hold?$"
 
 gText_ApprenticeHoldNothing0::
@@ -697,7 +697,7 @@ gText_ApprenticeItemAlreadyRecommended0::
 	.string "my {STR_VAR_2} hold anything?$"
 
 gText_ApprenticeWhatHeldItem1::
-	.string "Yay! It's {PLAYER}!\n"
+	.string "Yay! It's {JOGADOR}!\n"
 	.string "Great! I wanted to ask you something!\p"
 	.string "Do you make your POKéMON hold items?\n"
 	.string "I want to make mine hold items, but…\p"
@@ -726,7 +726,7 @@ gText_ApprenticeItemAlreadyRecommended1::
 	.string "have to hold anything this time?$"
 
 gText_ApprenticeWhatHeldItem2::
-	.string "{PLAYER}, hello!\n"
+	.string "{JOGADOR}, hello!\n"
 	.string "It's about my {STR_VAR_1}…\p"
 	.string "I want to make it hold a good item.\n"
 	.string "What would be good for it?$"
@@ -754,14 +754,14 @@ gText_ApprenticeItemAlreadyRecommended2::
 	.string "have to hold anything?$"
 
 gText_ApprenticeWhatHeldItem3::
-	.string "Hello, {PLAYER}…\n"
+	.string "Hello, {JOGADOR}…\n"
 	.string "I'm sorry to disturb you, but I have\l"
 	.string "something else I wanted to ask you.\p"
 	.string "I don't think I'm good enough to win\n"
 	.string "matches on my own, so I'm thinking of\l"
 	.string "making my {STR_VAR_1} hold an item.\p"
 	.string "But I don't know what would be good.\p"
-	.string "{PLAYER}, please, could you decide\n"
+	.string "{JOGADOR}, please, could you decide\n"
 	.string "for me?$"
 
 gText_ApprenticeHoldNothing3::
@@ -789,7 +789,7 @@ gText_ApprenticeItemAlreadyRecommended3::
 	.string "my {STR_VAR_2} hold anything?$"
 
 gText_ApprenticeWhatHeldItem4::
-	.string "Oh, {PLAYER}{KUN}.\n"
+	.string "Oh, {JOGADOR}{KUN}.\n"
 	.string "There's something I wanted to ask you.\p"
 	.string "You know how you decided which\n"
 	.string "POKéMON I should have for me?\p"
@@ -807,7 +807,7 @@ gText_ApprenticeHoldNothing4::
 gText_ApprenticeThanksNoHeldItem4::
 	.string "If you think that's best, I'll do that.\p"
 	.string "Knowing that you made the decision,\n"
-	.string "{PLAYER}{KUN}, I won't be so upset if\l"
+	.string "{JOGADOR}{KUN}, I won't be so upset if\l"
 	.string "I lose.\p"
 	.string "Okay, I'll look to you for advice again.\n"
 	.string "Bye!$"
@@ -816,7 +816,7 @@ gText_ApprenticeThanksHeldItem4::
 	.string "The item {STR_VAR_1}, huh?\n"
 	.string "Not bad. I'll use it!\p"
 	.string "Knowing that you made the decision,\n"
-	.string "{PLAYER}{KUN}, I won't be so upset if\l"
+	.string "{JOGADOR}{KUN}, I won't be so upset if\l"
 	.string "I lose.\p"
 	.string "Okay, I'll look to you for advice again.\n"
 	.string "Bye!$"
@@ -829,7 +829,7 @@ gText_ApprenticeItemAlreadyRecommended4::
 	.string "do the best it can empty-handed?$"
 
 gText_ApprenticeWhatHeldItem5::
-	.string "Yo, {PLAYER}{KUN}!\p"
+	.string "Yo, {JOGADOR}{KUN}!\p"
 	.string "We're both busy, but we seem to run\n"
 	.string "into each other often anyway!\p"
 	.string "Today I have to do some walking,\n"
@@ -865,7 +865,7 @@ gText_ApprenticeItemAlreadyRecommended5::
 	.string "my {STR_VAR_2} doesn't need anything?$"
 
 gText_ApprenticeWhatHeldItem6::
-	.string "Hiya, {PLAYER}! It's me!\n"
+	.string "Hiya, {JOGADOR}! It's me!\n"
 	.string "I need to tap your mind again today.\l"
 	.string "Please, I need your advice!\p"
 	.string "Drum roll, please!\n"
@@ -897,12 +897,12 @@ gText_ApprenticeItemAlreadyRecommended6::
 	.string "Ahahah! That's silly!\n"
 	.string "You already told me about that\l"
 	.string "{STR_VAR_1} before!\p"
-	.string "Are you feeling okay, {PLAYER}?\p"
+	.string "Are you feeling okay, {JOGADOR}?\p"
 	.string "Oh, wait! My {STR_VAR_2} doesn't\n"
 	.string "need to hold an item, you're saying.$"
 
 gText_ApprenticeWhatHeldItem7::
-	.string "Hello, {PLAYER}. I hope you've been\n"
+	.string "Hello, {JOGADOR}. I hope you've been\n"
 	.string "keeping well.\p"
 	.string "May I approach you for advice?\p"
 	.string "In a recent battle, my opponent\n"
@@ -922,14 +922,14 @@ gText_ApprenticeHoldNothing7::
 gText_ApprenticeThanksNoHeldItem7::
 	.string "I understand clearly now!\n"
 	.string "I will keep trying like this.\p"
-	.string "Thank you, {PLAYER}.\n"
+	.string "Thank you, {JOGADOR}.\n"
 	.string "I hope I can count on you again.\l"
 	.string "Please take care!$"
 
 gText_ApprenticeThanksHeldItem7::
 	.string "One {STR_VAR_1} it is!\n"
 	.string "I will order it right away.\p"
-	.string "Thank you, {PLAYER}.\n"
+	.string "Thank you, {JOGADOR}.\n"
 	.string "I hope I can count on you again.\l"
 	.string "Please take care!$"
 
@@ -940,10 +940,10 @@ gText_ApprenticeItemAlreadyRecommended7::
 	.string "no need to hold an item?$"
 
 gText_ApprenticeWhatHeldItem8::
-	.string "Eek! {PLAYER}!\n"
+	.string "Eek! {JOGADOR}!\n"
 	.string "I… I'm overjoyed to see you again!\p"
 	.string "Oh-oh-oh! There's something I just\n"
-	.string "had to ask you, {PLAYER}!\p"
+	.string "had to ask you, {JOGADOR}!\p"
 	.string "Please decide what my {STR_VAR_1}\n"
 	.string "should be holding!$"
 
@@ -959,7 +959,7 @@ gText_ApprenticeThanksNoHeldItem8::
 
 gText_ApprenticeThanksHeldItem8::
 	.string "{STR_VAR_1}! I'll use that!\p"
-	.string "Um… Could it be, {PLAYER}, you also\n"
+	.string "Um… Could it be, {JOGADOR}, you also\n"
 	.string "make your POKéMON hold that item?\p"
 	.string "I'll be sure to get it!\n"
 	.string "I hope you'll be willing to teach me\l"
@@ -974,7 +974,7 @@ gText_ApprenticeItemAlreadyRecommended8::
 
 gText_ApprenticeWhatHeldItem9::
 	.string "Hola!\n"
-	.string "My maestro, {PLAYER}{KUN}!\p"
+	.string "My maestro, {JOGADOR}{KUN}!\p"
 	.string "I want to hit you up for advice on\n"
 	.string "POKéMON tools.\p"
 	.string "What do you think would be good for\n"
@@ -1007,7 +1007,7 @@ gText_ApprenticeItemAlreadyRecommended9::
 	.string "can win without holding any item?$"
 
 gText_ApprenticeWhatHeldItem10::
-	.string "{PLAYER}{KUN}, something unbelievable\n"
+	.string "{JOGADOR}{KUN}, something unbelievable\n"
 	.string "has happened!\p"
 	.string "I woke up this morning, and my POKéMON\n"
 	.string "had 10 NUGGETS!\p"
@@ -1066,14 +1066,14 @@ gText_ApprenticeThanksNoHeldItem11::
 	.string "Okay, I hear you, sure I do!\n"
 	.string "My POKéMON will go empty-handed, too!\p"
 	.string "If it's advice I ever need,\n"
-	.string "{PLAYER}, your word I'll always heed!$"
+	.string "{JOGADOR}, your word I'll always heed!$"
 
 gText_ApprenticeThanksHeldItem11::
 	.string "Okay, one {STR_VAR_1},\n"
 	.string "that's what I'll use.\l"
 	.string "I was right to make you choose!\p"
 	.string "If it's advice I ever need,\n"
-	.string "{PLAYER}, your word I'll always heed!$"
+	.string "{JOGADOR}, your word I'll always heed!$"
 
 gText_ApprenticeItemAlreadyRecommended11::
 	.string "Okay, one {STR_VAR_1}, you say?\n"
@@ -1084,11 +1084,11 @@ gText_ApprenticeItemAlreadyRecommended11::
 	.string "anything tight?$"
 
 gText_ApprenticeWhatHeldItem12::
-	.string "Say, hey, {PLAYER}!\n"
+	.string "Say, hey, {JOGADOR}!\n"
 	.string "I found you again today!\p"
 	.string "What should I do? Get your advice?\n"
 	.string "Why not? I'm already talking to you!\p"
-	.string "{PLAYER}, are you getting sick of me?\n"
+	.string "{JOGADOR}, are you getting sick of me?\n"
 	.string "Nah, no way, that can't be.\p"
 	.string "Will you hear me out?\n"
 	.string "I'm looking for advice--that's what\l"
@@ -1104,14 +1104,14 @@ gText_ApprenticeHoldNothing12::
 gText_ApprenticeThanksNoHeldItem12::
 	.string "If holding nothing is the best,\n"
 	.string "I'll do as you suggest!\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me.\p"
 	.string "See you again, my smart friend!$"
 
 gText_ApprenticeThanksHeldItem12::
 	.string "If holding that {STR_VAR_1} is\n"
 	.string "the best, I'll do as you suggest!\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me.\p"
 	.string "See you again, my smart friend!$"
 
@@ -1124,14 +1124,14 @@ gText_ApprenticeItemAlreadyRecommended12::
 	.string "Doesn't need to hold anything?$"
 
 gText_ApprenticeWhatHeldItem13::
-	.string "Gwah! Ouch! {PLAYER}{KUN}, my arm's broken!\n"
+	.string "Gwah! Ouch! {JOGADOR}{KUN}, my arm's broken!\n"
 	.string "Don't touch it, please!\p"
 	.string "I must've broken it while I was trying\n"
 	.string "out different hold items with my posse\l"
 	.string "of POKéMON.\p"
 	.string "So, things being this way,\n"
 	.string "I need you to decide for me.\p"
-	.string "{PLAYER}{KUN}, what do you think would be\n"
+	.string "{JOGADOR}{KUN}, what do you think would be\n"
 	.string "good for my {STR_VAR_1} to hold?$"
 
 gText_ApprenticeHoldNothing13::
@@ -1163,14 +1163,14 @@ gText_ApprenticeItemAlreadyRecommended13::
 
 gText_ApprenticeWhatHeldItem14::
 	.string "Er… Um…\n"
-	.string "{PLAYER}{KUN}…\p"
+	.string "{JOGADOR}{KUN}…\p"
 	.string "Please, don't look at me that way.\n"
 	.string "My POKéMON don't have anything.\p"
 	.string "I… I'm really embarrassed about this,\n"
 	.string "but I really need your advice.\p"
 	.string "I can't decide what hold item would\n"
 	.string "make my {STR_VAR_1} strong.\p"
-	.string "{PLAYER}{KUN}, what do you think would\n"
+	.string "{JOGADOR}{KUN}, what do you think would\n"
 	.string "be good?$"
 
 gText_ApprenticeHoldNothing14::
@@ -1182,7 +1182,7 @@ gText_ApprenticeThanksNoHeldItem14::
 	.string "I'll go without an item.\p"
 	.string "This is nerve-racking, though.\n"
 	.string "Wouldn't it be too cool?\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "If we meet again, I hope you will be\l"
 	.string "as helpful.$"
 
@@ -1191,7 +1191,7 @@ gText_ApprenticeThanksHeldItem14::
 	.string "I'll go with that {STR_VAR_1}.\p"
 	.string "This is nerve-racking, though.\n"
 	.string "Wouldn't it be too cool?\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "If we meet again, I hope you will be\l"
 	.string "as helpful.$"
 
@@ -1204,11 +1204,11 @@ gText_ApprenticeItemAlreadyRecommended14::
 	.string "my {STR_VAR_2} didn't have an item?$"
 
 gText_ApprenticeWhatHeldItem15::
-	.string "Hm? You appear to be {PLAYER}{KUN}…\n"
+	.string "Hm? You appear to be {JOGADOR}{KUN}…\n"
 	.string "But are you really?\l"
 	.string "Perhaps you're a twin?\p"
 	.string "Oh, no, no, no, don't worry!\n"
-	.string "If you really are {PLAYER}, please\l"
+	.string "If you really are {JOGADOR}, please\l"
 	.string "forget about my rudeness.\p"
 	.string "What I would like is some more of\n"
 	.string "your fine advice.\p"
@@ -1244,13 +1244,13 @@ gText_ApprenticeItemAlreadyRecommended15::
 	.string "Are you certain?$"
 
 gText_ApprenticeWhichMonFirst0::
-	.string "Waah, {PLAYER}!\n"
+	.string "Waah, {JOGADOR}!\n"
 	.string "I have a dilemma, sob…\p"
 	.string "I want to begin battling other people,\n"
 	.string "but I don't know what to do.\p"
 	.string "How should I line up my POKéMON\n"
 	.string "so they'll be at their strongest?\p"
-	.string "Please tell me, {PLAYER}.\n"
+	.string "Please tell me, {JOGADOR}.\n"
 	.string "If you were me, which of these POKéMON\l"
 	.string "would you send out first?$"
 
@@ -1263,7 +1263,7 @@ gText_ApprenticeMonFirstThanks0::
 	.string "Thank you so much!$"
 
 gText_ApprenticeWhichMonFirst1::
-	.string "Yay! It's {PLAYER}!\n"
+	.string "Yay! It's {JOGADOR}!\n"
 	.string "Great! I wanted to ask you something!\p"
 	.string "Um, of my POKéMON, which do you\n"
 	.string "think should go out first?$"
@@ -1274,7 +1274,7 @@ gText_ApprenticeMonFirstThanks1::
 	.string "Thanks for teaching me!$"
 
 gText_ApprenticeWhichMonFirst2::
-	.string "{PLAYER}, hello!\p"
+	.string "{JOGADOR}, hello!\p"
 	.string "I think, in a battle, it's very important\n"
 	.string "which POKéMON comes out first.\p"
 	.string "Out of the POKéMON that I have,\n"
@@ -1286,11 +1286,11 @@ gText_ApprenticeMonFirstThanks2::
 	.string "See you again!$"
 
 gText_ApprenticeWhichMonFirst3::
-	.string "Hello, {PLAYER}…\n"
+	.string "Hello, {JOGADOR}…\n"
 	.string "I'm sorry to disturb you again with\l"
 	.string "another question.\p"
 	.string "I have so little confidence, I don't\n"
-	.string "know what I'd do without you, {PLAYER}.\p"
+	.string "know what I'd do without you, {JOGADOR}.\p"
 	.string "It may be a waste of time for me to\n"
 	.string "even worry about it, but I just can't\l"
 	.string "decide something…\p"
@@ -1306,7 +1306,7 @@ gText_ApprenticeMonFirstThanks3::
 	.string "speak with me… Thank you!$"
 
 gText_ApprenticeWhichMonFirst4::
-	.string "Oh, {PLAYER}{KUN}! It's me!\n"
+	.string "Oh, {JOGADOR}{KUN}! It's me!\n"
 	.string "I'm so glad to see you because I have\l"
 	.string "this little problem.\p"
 	.string "I can't decide how my POKéMON should\n"
@@ -1319,13 +1319,13 @@ gText_ApprenticeWhichMonFirst4::
 gText_ApprenticeMonFirstThanks4::
 	.string "My {STR_VAR_1}? That's great!\p"
 	.string "Knowing that you made the decision,\n"
-	.string "{PLAYER}{KUN}, I won't be so upset if\l"
+	.string "{JOGADOR}{KUN}, I won't be so upset if\l"
 	.string "I lose.\p"
 	.string "Okay, I'll look to you for advice again.\n"
 	.string "Bye!$"
 
 gText_ApprenticeWhichMonFirst5::
-	.string "Hi, my teacher {PLAYER}{KUN}!\n"
+	.string "Hi, my teacher {JOGADOR}{KUN}!\n"
 	.string "I'm busy again today!\p"
 	.string "I have to do some cycling, shopping,\n"
 	.string "and humming.\p"
@@ -1342,7 +1342,7 @@ gText_ApprenticeMonFirstThanks5::
 	.string "Thanks! See you around!$"
 
 gText_ApprenticeWhichMonFirst6::
-	.string "Yoohoo! Hiya, {PLAYER}!\n"
+	.string "Yoohoo! Hiya, {JOGADOR}!\n"
 	.string "You always walk around looking tough!\p"
 	.string "Listen, I need something from you\n"
 	.string "again! It's the usual thing!\p"
@@ -1362,7 +1362,7 @@ gText_ApprenticeMonFirstThanks6::
 
 gText_ApprenticeWhichMonFirst7::
 	.string "Thank you so much for stopping to\n"
-	.string "chat with me, {PLAYER}.\p"
+	.string "chat with me, {JOGADOR}.\p"
 	.string "I know I'm taking advantage of your\n"
 	.string "kindness, but may I ask for advice?\p"
 	.string "I would like you to decide on the order\n"
@@ -1373,25 +1373,25 @@ gText_ApprenticeWhichMonFirst7::
 gText_ApprenticeMonFirstThanks7::
 	.string "My {STR_VAR_1} it is!\n"
 	.string "I will put it first right away!\p"
-	.string "Thank you, {PLAYER}.\n"
+	.string "Thank you, {JOGADOR}.\n"
 	.string "I hope I can count on you again.\l"
 	.string "Please take care!$"
 
 gText_ApprenticeWhichMonFirst8::
-	.string "Eek! {PLAYER}!\n"
+	.string "Eek! {JOGADOR}!\n"
 	.string "I… I'm overjoyed to see you again!\p"
 	.string "My POKéMON have become much\n"
 	.string "stronger!\p"
 	.string "But I don't always win. It seems to\n"
 	.string "depend on which POKéMON goes first.\p"
-	.string "{PLAYER}, please, I need your help!\p"
+	.string "{JOGADOR}, please, I need your help!\p"
 	.string "Please decide which of my POKéMON\n"
 	.string "should go out first!$"
 
 gText_ApprenticeMonFirstThanks8::
 	.string "Sigh… I'm overwhelmed with happiness…\p"
 	.string "It's like a dream having you decide\n"
-	.string "for me, {PLAYER}.\p"
+	.string "for me, {JOGADOR}.\p"
 	.string "But perfectly understood!\n"
 	.string "I will go with my {STR_VAR_1} first!\p"
 	.string "I hope you'll be willing to teach me\n"
@@ -1399,13 +1399,13 @@ gText_ApprenticeMonFirstThanks8::
 
 gText_ApprenticeWhichMonFirst9::
 	.string "Hello, hello!\n"
-	.string "My mentor, {PLAYER}{KUN}!\l"
+	.string "My mentor, {JOGADOR}{KUN}!\l"
 	.string "Hit me with your sage advice today!\p"
 	.string "You see, I pulled together a team of\n"
 	.string "three POKéMON. So far so good.\p"
 	.string "But the team's battling order's not\n"
 	.string "settled yet.\p"
-	.string "This is where you come in, {PLAYER}{KUN}!\n"
+	.string "This is where you come in, {JOGADOR}{KUN}!\n"
 	.string "You decide which POKéMON leads off!\p"
 	.string "Don't be shy now.\n"
 	.string "Let's blurt it out!$"
@@ -1418,7 +1418,7 @@ gText_ApprenticeMonFirstThanks9::
 	.string "Adios!$"
 
 gText_ApprenticeWhichMonFirst10::
-	.string "{PLAYER}{KUN}, listen!\n"
+	.string "{JOGADOR}{KUN}, listen!\n"
 	.string "It's a crisis!\p"
 	.string "My POKéMON, all three of them, go into\n"
 	.string "battle at once!\p"
@@ -1453,10 +1453,10 @@ gText_ApprenticeMonFirstThanks11::
 	.string "Okay, I hear you, sure I do!\n"
 	.string "I'll switch them up, that I'll do!\p"
 	.string "If it's advice I ever need,\n"
-	.string "{PLAYER}, your word I'll always heed!$"
+	.string "{JOGADOR}, your word I'll always heed!$"
 
 gText_ApprenticeWhichMonFirst12::
-	.string "Yahoo, {PLAYER}!\n"
+	.string "Yahoo, {JOGADOR}!\n"
 	.string "How do you do?\p"
 	.string "What should I do? Go ahead and ask?\n"
 	.string "Uh-huh, I have something to ask!\l"
@@ -1469,12 +1469,12 @@ gText_ApprenticeWhichMonFirst12::
 gText_ApprenticeMonFirstThanks12::
 	.string "My {STR_VAR_1}? Yes!\n"
 	.string "That'll do, there's no distress!\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me.\p"
 	.string "See you again, my smart friend!$"
 
 gText_ApprenticeWhichMonFirst13::
-	.string "…Oof…ooch… {PLAYER}{KUN}…\n"
+	.string "…Oof…ooch… {JOGADOR}{KUN}…\n"
 	.string "My stomach's hurting all of a sudden…\p"
 	.string "…It's getting better now…\p"
 	.string "I must've worried myself sick racking\n"
@@ -1482,7 +1482,7 @@ gText_ApprenticeWhichMonFirst13::
 	.string "my posse of POKéMON.\p"
 	.string "So, things being this way,\n"
 	.string "I need you to decide for me.\p"
-	.string "{PLAYER}{KUN}, which of my POKéMON should\n"
+	.string "{JOGADOR}{KUN}, which of my POKéMON should\n"
 	.string "go first? So I'd win, I mean.$"
 
 gText_ApprenticeMonFirstThanks13::
@@ -1495,7 +1495,7 @@ gText_ApprenticeMonFirstThanks13::
 
 gText_ApprenticeWhichMonFirst14::
 	.string "Er… Um…\n"
-	.string "{PLAYER}{KUN}?\p"
+	.string "{JOGADOR}{KUN}?\p"
 	.string "Please, don't look at me that way.\n"
 	.string "You're making me feel all flustered.\p"
 	.string "Um…\n"
@@ -1511,16 +1511,16 @@ gText_ApprenticeMonFirstThanks14::
 	.string "I'll lead with my {STR_VAR_1}.\p"
 	.string "I hope I can do my best without\n"
 	.string "getting all flustered.\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "If we meet again, I hope you will be\l"
 	.string "as helpful.$"
 
 gText_ApprenticeWhichMonFirst15::
-	.string "Hm? You appear to be {PLAYER}{KUN}…\n"
+	.string "Hm? You appear to be {JOGADOR}{KUN}…\n"
 	.string "But are you really?\l"
 	.string "Perhaps you're a clever look-alike?\p"
 	.string "Oh, no, no, no, don't worry!\n"
-	.string "If you really are {PLAYER}, please\l"
+	.string "If you really are {JOGADOR}, please\l"
 	.string "forget about my rudeness.\p"
 	.string "What I would like is your fine advice.\p"
 	.string "I have here my POKéMON team.\n"
@@ -1538,14 +1538,14 @@ gText_ApprenticeMonFirstThanks15::
 
 gText_ApprenticeWhichMon0::
 	.string "Snivel…\n"
-	.string "Oh, {PLAYER}!\p"
+	.string "Oh, {JOGADOR}!\p"
 	.string "What perfect timing!\n"
 	.string "There's something I just can't decide…\p"
 	.string "I can't decide which POKéMON I should\n"
 	.string "be using.\p"
 	.string "I can't decide between the POKéMON\n"
 	.string "{STR_VAR_1} and {STR_VAR_2}…\p"
-	.string "{PLAYER}, which do you think will give\n"
+	.string "{JOGADOR}, which do you think will give\n"
 	.string "even me a chance at winning?$"
 
 gText_ApprenticeMonThanks0::
@@ -1557,13 +1557,13 @@ gText_ApprenticeMonThanks0::
 	.string "Thank you so much!$"
 
 gText_ApprenticeWhichMon1::
-	.string "Yay! It's {PLAYER}!\n"
+	.string "Yay! It's {JOGADOR}!\n"
 	.string "Yay, you came at the right time, too!\l"
 	.string "I need your advice again!\p"
 	.string "Um, I'm all mixed up--should I use\n"
 	.string "my {STR_VAR_1} or {STR_VAR_2}…\p"
 	.string "Which do you think I should raise,\n"
-	.string "{PLAYER}?$"
+	.string "{JOGADOR}?$"
 
 gText_ApprenticeMonThanks1::
 	.string "Oh, so my {STR_VAR_1} is better!\n"
@@ -1571,7 +1571,7 @@ gText_ApprenticeMonThanks1::
 	.string "Thanks for teaching me!$"
 
 gText_ApprenticeWhichMon2::
-	.string "{PLAYER}, hello!\n"
+	.string "{JOGADOR}, hello!\n"
 	.string "I have a question I wanted to ask.\p"
 	.string "I'm in a dilemma over whether I should\n"
 	.string "raise one {STR_VAR_1} or {STR_VAR_2}.\p"
@@ -1586,7 +1586,7 @@ gText_ApprenticeMonThanks2::
 	.string "See you again!$"
 
 gText_ApprenticeWhichMon3::
-	.string "Hello, {PLAYER}…\p"
+	.string "Hello, {JOGADOR}…\p"
 	.string "Um, you've probably already forgotten\n"
 	.string "about someone like me…\p"
 	.string "…But that doesn't matter if you\n"
@@ -1596,7 +1596,7 @@ gText_ApprenticeWhichMon3::
 	.string "I've narrowed the field to the POKéMON\n"
 	.string "{STR_VAR_1} and {STR_VAR_2}, but that's\l"
 	.string "where I became stuck…\p"
-	.string "{PLAYER}, you probably don't want to\n"
+	.string "{JOGADOR}, you probably don't want to\n"
 	.string "bother, but please decide for me.$"
 
 gText_ApprenticeMonThanks3::
@@ -1608,7 +1608,7 @@ gText_ApprenticeMonThanks3::
 	.string "Thank you!$"
 
 gText_ApprenticeWhichMon4::
-	.string "Oh, {PLAYER}{KUN}! I'm so glad to see you!\n"
+	.string "Oh, {JOGADOR}{KUN}! I'm so glad to see you!\n"
 	.string "I was about to go looking for you!\p"
 	.string "Can you decide what kind of POKéMON\n"
 	.string "I should use?\p"
@@ -1621,20 +1621,20 @@ gText_ApprenticeWhichMon4::
 gText_ApprenticeMonThanks4::
 	.string "{STR_VAR_1}? That's great!\p"
 	.string "Knowing that you made the decision,\n"
-	.string "{PLAYER}{KUN}, I won't be so upset if\l"
+	.string "{JOGADOR}{KUN}, I won't be so upset if\l"
 	.string "I lose.\p"
 	.string "Okay, I'll look to you for advice again.\n"
 	.string "Bye!$"
 
 gText_ApprenticeWhichMon5::
-	.string "If it isn't {PLAYER}{KUN}! How's it going?\n"
+	.string "If it isn't {JOGADOR}{KUN}! How's it going?\n"
 	.string "I'm busy again as always!\p"
 	.string "I want to do good with POKéMON, too,\n"
 	.string "but I haven't been able to decide\l"
 	.string "which POKéMON I should use.\p"
 	.string "You know how {STR_VAR_1} look strong?\n"
 	.string "But {STR_VAR_2} are tough to ignore.\p"
-	.string "{PLAYER}{KUN}, give me some of your good\n"
+	.string "{JOGADOR}{KUN}, give me some of your good\n"
 	.string "advice! Which one'd be good for me?$"
 
 gText_ApprenticeMonThanks5::
@@ -1646,7 +1646,7 @@ gText_ApprenticeMonThanks5::
 
 gText_ApprenticeWhichMon6::
 	.string "Oh!\n"
-	.string "Yay, it's {PLAYER}!\p"
+	.string "Yay, it's {JOGADOR}!\p"
 	.string "I didn't waste any time boasting to\n"
 	.string "my friends about meeting you!\p"
 	.string "I need to tap your mind again today.\n"
@@ -1667,13 +1667,13 @@ gText_ApprenticeMonThanks6::
 	.string "Thanks!$"
 
 gText_ApprenticeWhichMon7::
-	.string "Oh, is it you, {PLAYER}?\n"
+	.string "Oh, is it you, {JOGADOR}?\n"
 	.string "I'm delighted to see you again!\p"
 	.string "Ever since I became your apprentice,\n"
 	.string "my confidence has been blooming.\p"
 	.string "I think I'm ready to raise a POKéMON\n"
 	.string "of my own!\p"
-	.string "{PLAYER}, may I impose on you to choose\n"
+	.string "{JOGADOR}, may I impose on you to choose\n"
 	.string "which POKéMON I should raise?\p"
 	.string "The choices are the POKéMON\n"
 	.string "{STR_VAR_1} or {STR_VAR_2}…\l"
@@ -1682,16 +1682,16 @@ gText_ApprenticeWhichMon7::
 gText_ApprenticeMonThanks7::
 	.string "One {STR_VAR_1} it is!\n"
 	.string "I will find one right away!\p"
-	.string "Thank you, {PLAYER}.\n"
+	.string "Thank you, {JOGADOR}.\n"
 	.string "I hope I can count on you again.\l"
 	.string "Please take care!$"
 
 gText_ApprenticeWhichMon8::
-	.string "Eek! {PLAYER}! I met you again!\n"
+	.string "Eek! {JOGADOR}! I met you again!\n"
 	.string "I… I'm overjoyed!\p"
 	.string "Oh-oh-oh, I know!\n"
 	.string "I shouldn't pass up this opportunity!\p"
-	.string "May I ask a huge favor, {PLAYER}?\n"
+	.string "May I ask a huge favor, {JOGADOR}?\n"
 	.string "Please choose a POKéMON for me!\p"
 	.string "Please decide which would be better,\n"
 	.string "{STR_VAR_1} or {STR_VAR_2}!$"
@@ -1705,7 +1705,7 @@ gText_ApprenticeMonThanks8::
 
 gText_ApprenticeWhichMon9::
 	.string "Hey, hey!\n"
-	.string "My mentor, {PLAYER}{KUN}!\p"
+	.string "My mentor, {JOGADOR}{KUN}!\p"
 	.string "Hello, I've been looking for you\n"
 	.string "for some more of your sage advice!\p"
 	.string "Which kind of POKéMON would be right\n"
@@ -1721,7 +1721,7 @@ gText_ApprenticeMonThanks9::
 	.string "Adios!$"
 
 gText_ApprenticeWhichMon10::
-	.string "{PLAYER}{KUN}, listen! Big news!\n"
+	.string "{JOGADOR}{KUN}, listen! Big news!\n"
 	.string "I caught a mirage POKéMON!\p"
 	.string "Of course I'm lying!\n"
 	.string "Wahahaha!\p"
@@ -1757,10 +1757,10 @@ gText_ApprenticeMonThanks11::
 	.string "{STR_VAR_1}, you say, hey, hey!\n"
 	.string "I'll go get me one right away!\p"
 	.string "If it's advice I ever need,\n"
-	.string "{PLAYER}, your word I'll always heed!$"
+	.string "{JOGADOR}, your word I'll always heed!$"
 
 gText_ApprenticeWhichMon12::
-	.string "Oh, wow, if it isn't {PLAYER}!\p"
+	.string "Oh, wow, if it isn't {JOGADOR}!\p"
 	.string "What should I do? Get your advice?\n"
 	.string "Why not? I'm already talking to you!\p"
 	.string "It's been a long time. Let me break\n"
@@ -1774,18 +1774,18 @@ gText_ApprenticeWhichMon12::
 gText_ApprenticeMonThanks12::
 	.string "If that {STR_VAR_1} is the best,\n"
 	.string "I'll do as you suggest!\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me.\p"
 	.string "See you again, my smart friend!$"
 
 gText_ApprenticeWhichMon13::
-	.string "Oh, hi, {PLAYER}{KUN}…\n"
+	.string "Oh, hi, {JOGADOR}{KUN}…\n"
 	.string "I have this horrible headache…\p"
 	.string "I must've worried too much about\n"
 	.string "the kind of POKéMON I should raise.\p"
 	.string "So, things being this way,\n"
 	.string "I need you to decide for me.\p"
-	.string "{PLAYER}{KUN}, if I had to choose between\n"
+	.string "{JOGADOR}{KUN}, if I had to choose between\n"
 	.string "the POKéMON {STR_VAR_1} and\l"
 	.string "{STR_VAR_2}, which should it be?$"
 
@@ -1797,7 +1797,7 @@ gText_ApprenticeMonThanks13::
 
 gText_ApprenticeWhichMon14::
 	.string "Er… Um…\n"
-	.string "{PLAYER}{KUN}…?\p"
+	.string "{JOGADOR}{KUN}…?\p"
 	.string "Please, don't look at me that way.\n"
 	.string "I'm getting all flustered…\l"
 	.string "I… I need your advice.\p"
@@ -1811,12 +1811,12 @@ gText_ApprenticeMonThanks14::
 	.string "I'll do my best with one {STR_VAR_1}.\p"
 	.string "I hope I can do my best without\n"
 	.string "getting all flustered.\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "If we meet again, I hope you will be\l"
 	.string "as helpful.$"
 
 gText_ApprenticeWhichMon15::
-	.string "Hm? You appear to be {PLAYER}{KUN}…\n"
+	.string "Hm? You appear to be {JOGADOR}{KUN}…\n"
 	.string "But are you really real?\p"
 	.string "No, no, if you are real, it's fine.\n"
 	.string "Incidentally, I would like to obtain\l"
@@ -1836,12 +1836,12 @@ gText_ApprenticeMonThanks15::
 	.string "Let us meet again!$"
 
 gText_ApprenticeWhichMove0::
-	.string "Waaah! Oh, {PLAYER}!\n"
+	.string "Waaah! Oh, {JOGADOR}!\n"
 	.string "Snivel… Hiccup…\p"
 	.string "I have a dilemma!\n"
 	.string "I can't decide on a move for\l"
 	.string "my {STR_VAR_1}…\p"
-	.string "Please, please, {PLAYER}.\n"
+	.string "Please, please, {JOGADOR}.\n"
 	.string "Can you decide for me?\p"
 	.string "For my {STR_VAR_1}, which move would\n"
 	.string "be the better choice: {STR_VAR_2}\l"
@@ -1850,14 +1850,14 @@ gText_ApprenticeWhichMove0::
 gText_ApprenticeMoveThanks0::
 	.string "{STR_VAR_1}?\n"
 	.string "Waaaaah!\p"
-	.string "Oh! I'm so sorry, {PLAYER}!\n"
+	.string "Oh! I'm so sorry, {JOGADOR}!\n"
 	.string "You've made me so happy by deciding\l"
 	.string "the move, I'm crying…\p"
 	.string "Snivel…\n"
 	.string "Thank you so much!$"
 
 gText_ApprenticeWhichMove1::
-	.string "Yay! Hi, {PLAYER}!\n"
+	.string "Yay! Hi, {JOGADOR}!\n"
 	.string "I need your advice again!\p"
 	.string "I want to teach my {STR_VAR_1}\n"
 	.string "a cool move.\p"
@@ -1872,7 +1872,7 @@ gText_ApprenticeMoveThanks1::
 	.string "me something else, teacher!$"
 
 gText_ApprenticeWhichMove2::
-	.string "{PLAYER}, hello!\n"
+	.string "{JOGADOR}, hello!\n"
 	.string "It's about my {STR_VAR_1}, but I'm\l"
 	.string "worried about its moves.\p"
 	.string "You see, it's the moves {STR_VAR_2}\n"
@@ -1888,15 +1888,15 @@ gText_ApprenticeMoveThanks2::
 	.string "See you again!$"
 
 gText_ApprenticeWhichMove3::
-	.string "Ohhh, {PLAYER}…\n"
+	.string "Ohhh, {JOGADOR}…\n"
 	.string "I'm hopeless, no, really!\p"
 	.string "I've decided to raise a POKéMON,\n"
 	.string "but now I can't even decide what\l"
 	.string "move I should let it learn…\p"
 	.string "I know that it doesn't mean anything\n"
-	.string "to you, {PLAYER}.\p"
+	.string "to you, {JOGADOR}.\p"
 	.string "But it means a lot to me…\p"
-	.string "Please, {PLAYER}, could you choose\n"
+	.string "Please, {JOGADOR}, could you choose\n"
 	.string "a move for my {STR_VAR_1}?\p"
 	.string "If you could even choose between\n"
 	.string "{STR_VAR_2} and {STR_VAR_3}…$"
@@ -1909,7 +1909,7 @@ gText_ApprenticeMoveThanks3::
 	.string "Thank you!$"
 
 gText_ApprenticeWhichMove4::
-	.string "Oh, {PLAYER}{KUN}!\n"
+	.string "Oh, {JOGADOR}{KUN}!\n"
 	.string "I was just hoping to see you, too!\p"
 	.string "I was wondering what move would\n"
 	.string "be suitable for my {STR_VAR_1}.\p"
@@ -1922,14 +1922,14 @@ gText_ApprenticeWhichMove4::
 gText_ApprenticeMoveThanks4::
 	.string "{STR_VAR_1}? That's great!\p"
 	.string "Knowing that you made the decision,\n"
-	.string "{PLAYER}{KUN}, I won't be so upset if\l"
+	.string "{JOGADOR}{KUN}, I won't be so upset if\l"
 	.string "I lose.\p"
 	.string "Okay, I'll look to you for advice again.\n"
 	.string "Bye!$"
 
 gText_ApprenticeWhichMove5::
 	.string "How could things be this busy?\n"
-	.string "Hey, if it isn't {PLAYER}{KUN}!\l"
+	.string "Hey, if it isn't {JOGADOR}{KUN}!\l"
 	.string "How's it going?\p"
 	.string "Since I got up this morning, I've done\n"
 	.string "my jogging, swimming, and cooking!\p"
@@ -1938,7 +1938,7 @@ gText_ApprenticeWhichMove5::
 	.string "my {STR_VAR_1} should learn!\p"
 	.string "{STR_VAR_2} looks good, huh?\n"
 	.string "But {STR_VAR_3}'s also decent.\p"
-	.string "{PLAYER}{KUN}, give me some of your good\n"
+	.string "{JOGADOR}{KUN}, give me some of your good\n"
 	.string "advice! Which move'd be good for me?$"
 
 gText_ApprenticeMoveThanks5::
@@ -1950,7 +1950,7 @@ gText_ApprenticeMoveThanks5::
 
 gText_ApprenticeWhichMove6::
 	.string "Oh! Lucky!\n"
-	.string "I met you again, {PLAYER}!\l"
+	.string "I met you again, {JOGADOR}!\l"
 	.string "I need to tap your mind again today.\p"
 	.string "Drum roll, please!\n"
 	.string "The question I have is…\p"
@@ -1968,7 +1968,7 @@ gText_ApprenticeMoveThanks6::
 	.string "Thanks!$"
 
 gText_ApprenticeWhichMove7::
-	.string "Oh, hello, {PLAYER}.\n"
+	.string "Oh, hello, {JOGADOR}.\n"
 	.string "I trust you've been well?\p"
 	.string "I have to seek your advice again.\n"
 	.string "It's about my dearest {STR_VAR_1}.\p"
@@ -1979,15 +1979,15 @@ gText_ApprenticeWhichMove7::
 gText_ApprenticeMoveThanks7::
 	.string "{STR_VAR_1} it is!\n"
 	.string "I will teach that right away!\p"
-	.string "Thank you, {PLAYER}.\n"
+	.string "Thank you, {JOGADOR}.\n"
 	.string "I hope I can count on you again.\l"
 	.string "Please take care!$"
 
 gText_ApprenticeWhichMove8::
-	.string "Eek! {PLAYER}! I met you again!\n"
+	.string "Eek! {JOGADOR}! I met you again!\n"
 	.string "I… I'm overjoyed!\p"
 	.string "Whenever I'm in need, you're always\n"
-	.string "there for me, {PLAYER}!\p"
+	.string "there for me, {JOGADOR}!\p"
 	.string "Today, I want you to recommend\n"
 	.string "a move for me!\p"
 	.string "Please choose a move for\n"
@@ -2003,7 +2003,7 @@ gText_ApprenticeMoveThanks8::
 	.string "some more another time.$"
 
 gText_ApprenticeWhichMove9::
-	.string "Hola, {PLAYER}{KUN}, bueno!\n"
+	.string "Hola, {JOGADOR}{KUN}, bueno!\n"
 	.string "I'm hoping for some more of\l"
 	.string "your sage advice today!\p"
 	.string "What would be the best move for\n"
@@ -2021,7 +2021,7 @@ gText_ApprenticeMoveThanks9::
 	.string "Adios!$"
 
 gText_ApprenticeWhichMove10::
-	.string "{PLAYER}{KUN}, it's completely wild!\p"
+	.string "{JOGADOR}{KUN}, it's completely wild!\p"
 	.string "My POKéMON!\n"
 	.string "It learned six moves!\p"
 	.string "Of course I'm lying!\n"
@@ -2057,13 +2057,13 @@ gText_ApprenticeMoveThanks11::
 	.string "{STR_VAR_1}, you say, hey, hey!\n"
 	.string "I'll go teach that right away!\p"
 	.string "If it's advice I ever need,\n"
-	.string "{PLAYER}, your word I'll always heed!$"
+	.string "{JOGADOR}, your word I'll always heed!$"
 
 gText_ApprenticeWhichMove12::
-	.string "Oh, yeahah, if it isn't {PLAYER}!\p"
+	.string "Oh, yeahah, if it isn't {JOGADOR}!\p"
 	.string "What should I do? Get your advice?\n"
 	.string "Why not? I'm already talking to you!\p"
-	.string "{PLAYER}, are you surprised by me?\n"
+	.string "{JOGADOR}, are you surprised by me?\n"
 	.string "I want your advice, can't you see?\p"
 	.string "Are you receiving me?\n"
 	.string "You are receiving me!\p"
@@ -2074,18 +2074,18 @@ gText_ApprenticeWhichMove12::
 gText_ApprenticeMoveThanks12::
 	.string "If that {STR_VAR_1} is the best,\n"
 	.string "I'll do as you suggest!\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me.\p"
 	.string "See you again, my smart friend!$"
 
 gText_ApprenticeWhichMove13::
-	.string "Gahack! Gaah! Oh, {PLAYER}{KUN}…\n"
+	.string "Gahack! Gaah! Oh, {JOGADOR}{KUN}…\n"
 	.string "I have this lousy cold, I do…\p"
 	.string "I want to pick a move for my POKéMON,\n"
 	.string "but I'm not up to it…\p"
 	.string "So, things being this way,\n"
 	.string "I need you to decide for me.\p"
-	.string "{PLAYER}{KUN}, if I had to choose between\n"
+	.string "{JOGADOR}{KUN}, if I had to choose between\n"
 	.string "{STR_VAR_2} and {STR_VAR_3} for\l"
 	.string "my {STR_VAR_1}, which would it be?$"
 
@@ -2097,7 +2097,7 @@ gText_ApprenticeMoveThanks13::
 
 gText_ApprenticeWhichMove14::
 	.string "Er… Um…\n"
-	.string "{PLAYER}{KUN}…?\p"
+	.string "{JOGADOR}{KUN}…?\p"
 	.string "Please, don't look at me that way.\n"
 	.string "I'm getting all flustered…\l"
 	.string "I… I need your advice.\p"
@@ -2113,12 +2113,12 @@ gText_ApprenticeMoveThanks14::
 	.string "I'll try that {STR_VAR_1}.\p"
 	.string "I hope I can teach that move…\n"
 	.string "This is so nerve-racking…\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "If we meet again, I hope you will be\l"
 	.string "as helpful.$"
 
 gText_ApprenticeWhichMove15::
-	.string "Hm? You appear to be {PLAYER}{KUN}…\n"
+	.string "Hm? You appear to be {JOGADOR}{KUN}…\n"
 	.string "But are you really real?\p"
 	.string "Perhaps you're one of those popular\n"
 	.string "mimics?\p"
@@ -2140,14 +2140,14 @@ gText_ApprenticeMoveThanks15::
 	.string "Let us meet again!$"
 
 gText_ApprenticePickWinSpeech0::
-	.string "Oh… {PLAYER}?\n"
-	.string "It is {PLAYER}!\l"
+	.string "Oh… {JOGADOR}?\n"
+	.string "It is {JOGADOR}!\l"
 	.string "Oh! Sniff…sob… Please, listen!\p"
 	.string "I… When I battle, I get so nervous,\n"
 	.string "I can't help crying even if I win…\p"
 	.string "I wish I could say something cool\n"
 	.string "when I win…\p"
-	.string "Please, please, {PLAYER}!\n"
+	.string "Please, please, {JOGADOR}!\n"
 	.string "Could you maybe teach me something\l"
 	.string "cool to say when I win so I don't cry?$"
 
@@ -2157,15 +2157,15 @@ gText_ApprenticeWinSpeechThanks0::
 	.string "It's really cool!\p"
 	.string "Oh… I'm sorry…\n"
 	.string "I'm so happy, I'm crying…\p"
-	.string "Snivel… {PLAYER}!\n"
+	.string "Snivel… {JOGADOR}!\n"
 	.string "Thank you so much for everything!\p"
 	.string "I will battle the best I can for\n"
-	.string "your sake, {PLAYER}!\p"
-	.string "{PLAYER}…\n"
+	.string "your sake, {JOGADOR}!\p"
+	.string "{JOGADOR}…\n"
 	.string "Next time… We should battle!$"
 
 gText_ApprenticePickWinSpeech1::
-	.string "Yay! It's {PLAYER}! Hello!\n"
+	.string "Yay! It's {JOGADOR}! Hello!\n"
 	.string "I wanted to ask you something!\p"
 	.string "I want to say something cool when\n"
 	.string "I win a match.\p"
@@ -2183,7 +2183,7 @@ gText_ApprenticeWinSpeechThanks1::
 	.string "a battle!$"
 
 gText_ApprenticePickWinSpeech2::
-	.string "{PLAYER}, hello!\p"
+	.string "{JOGADOR}, hello!\p"
 	.string "My POKéMON and I are ready for\n"
 	.string "anything, except for one thing.\p"
 	.string "I think it would be good if I had\n"
@@ -2198,20 +2198,20 @@ gText_ApprenticeWinSpeechThanks2::
 	.string "I'm going out to battle all over\n"
 	.string "the place.\p"
 	.string "Who knows, I may even get to battle\n"
-	.string "you one day, {PLAYER}.\p"
+	.string "you one day, {JOGADOR}.\p"
 	.string "Next time, let's meet at a place\n"
 	.string "of battle!$"
 
 gText_ApprenticePickWinSpeech3::
-	.string "Hello, {PLAYER}…\n"
+	.string "Hello, {JOGADOR}…\n"
 	.string "I'm sorry to bug you, but I'm hopeless…\p"
 	.string "Even when…\n"
 	.string "Even when I win, I don't have anything\l"
 	.string "special to say…\p"
 	.string "I know that it doesn't mean anything\n"
-	.string "to you, {PLAYER}.\p"
+	.string "to you, {JOGADOR}.\p"
 	.string "But it means a lot to me…\p"
-	.string "Please, {PLAYER}, what should I say\n"
+	.string "Please, {JOGADOR}, what should I say\n"
 	.string "if I win a battle?$"
 
 gText_ApprenticeWinSpeechThanks3::
@@ -2220,7 +2220,7 @@ gText_ApprenticeWinSpeechThanks3::
 	.string "Uh… Is it okay for someone like me\n"
 	.string "to even say that?\p"
 	.string "No! I'll do my best!\p"
-	.string "{PLAYER}, thank you so much for\n"
+	.string "{JOGADOR}, thank you so much for\n"
 	.string "putting up with me for so long…\p"
 	.string "I promise to do my best from now on.\p"
 	.string "I'm sure you'll quickly forget about\n"
@@ -2228,7 +2228,7 @@ gText_ApprenticeWinSpeechThanks3::
 	.string "somewhere again!$"
 
 gText_ApprenticePickWinSpeech4::
-	.string "Oh, {PLAYER}{KUN}.\n"
+	.string "Oh, {JOGADOR}{KUN}.\n"
 	.string "There's something I want you to hear.\p"
 	.string "I know that I don't always sound\n"
 	.string "nice or polite…\p"
@@ -2254,7 +2254,7 @@ gText_ApprenticeWinSpeechThanks4::
 
 gText_ApprenticePickWinSpeech5::
 	.string "Oh, I can't get over how busy I am!\n"
-	.string "Oh, hey, I was looking for you, {PLAYER}{KUN}.\p"
+	.string "Oh, hey, I was looking for you, {JOGADOR}{KUN}.\p"
 	.string "Are you well as usual?\n"
 	.string "Things haven't changed for me at all.\p"
 	.string "I've got running, fighting, and mapping\n"
@@ -2264,7 +2264,7 @@ gText_ApprenticePickWinSpeech5::
 	.string "from a win without saying a word.\p"
 	.string "So, what would be a cool saying to\n"
 	.string "underline my coolness when I'm done\l"
-	.string "and walking away? {PLAYER}{KUN}, help me!$"
+	.string "and walking away? {JOGADOR}{KUN}, help me!$"
 
 gText_ApprenticeWinSpeechThanks5::
 	.string "{STR_VAR_1}\p"
@@ -2274,12 +2274,12 @@ gText_ApprenticeWinSpeechThanks5::
 	.string "like you.\p"
 	.string "I'm going to make time somehow so\n"
 	.string "I can get into battling.\p"
-	.string "Thanks for everything, {PLAYER}{KUN}!\n"
+	.string "Thanks for everything, {JOGADOR}{KUN}!\n"
 	.string "We have to battle, you and me, one day!$"
 
 gText_ApprenticePickWinSpeech6::
 	.string "I lucked out again!\n"
-	.string "{PLAYER}! Am I glad to see you!\l"
+	.string "{JOGADOR}! Am I glad to see you!\l"
 	.string "Like usual, I need your advice!\p"
 	.string "Drum roll, please!\n"
 	.string "The last question I have is…\p"
@@ -2295,13 +2295,13 @@ gText_ApprenticeWinSpeechThanks6::
 	.string "at this, huh?\p"
 	.string "So, I'm thinking of challenging other\n"
 	.string "TRAINERS from now on.\p"
-	.string "{PLAYER}, your advice really helped me.\p"
+	.string "{JOGADOR}, your advice really helped me.\p"
 	.string "Maybe one day, there'll be a time when\n"
 	.string "we battle!\p"
 	.string "Thank you for everything!$"
 
 gText_ApprenticePickWinSpeech7::
-	.string "Oh, {PLAYER}.\n"
+	.string "Oh, {JOGADOR}.\n"
 	.string "I'm so glad I met you!\p"
 	.string "I no longer have any concerns with\n"
 	.string "regard to my POKéMON.\p"
@@ -2319,14 +2319,14 @@ gText_ApprenticeWinSpeechThanks7::
 	.string "and makes me feel reborn!\p"
 	.string "I must use that right away!\p"
 	.string "And now, I must take my leave,\n"
-	.string "{PLAYER}…\p"
+	.string "{JOGADOR}…\p"
 	.string "I will go out to battle many others,\n"
 	.string "but never will I forget your teachings.\p"
 	.string "Perhaps one day…\n"
 	.string "Farewell!$"
 
 gText_ApprenticePickWinSpeech8::
-	.string "Eek! I spotted {PLAYER}!\n"
+	.string "Eek! I spotted {JOGADOR}!\n"
 	.string "I… I'm overjoyed to see you!\p"
 	.string "Oh-oh-oh! There's something I just\n"
 	.string "had to ask you!\p"
@@ -2334,7 +2334,7 @@ gText_ApprenticePickWinSpeech8::
 	.string "That part was giddying!\p"
 	.string "But it made me so overjoyed that\n"
 	.string "I choked up and couldn't say a thing!\p"
-	.string "So now, {PLAYER}, please, I want you to\n"
+	.string "So now, {JOGADOR}, please, I want you to\n"
 	.string "think up an exit line for when I win!$"
 
 gText_ApprenticeWinSpeechThanks8::
@@ -2346,14 +2346,14 @@ gText_ApprenticeWinSpeechThanks8::
 	.string "I have nothing left to regret now!\p"
 	.string "I'm going to travel now and battle\n"
 	.string "all sorts of people.\p"
-	.string "Everything, I owe it to you, {PLAYER}.\n"
+	.string "Everything, I owe it to you, {JOGADOR}.\n"
 	.string "Really, really, thank you!\p"
 	.string "I've got to go now, but let's meet\n"
 	.string "in battle one day!$"
 
 gText_ApprenticePickWinSpeech9::
 	.string "Hola, bueno!\n"
-	.string "{PLAYER}{KUN}!\p"
+	.string "{JOGADOR}{KUN}!\p"
 	.string "You know, I'm getting the itch to roam\n"
 	.string "and battle where I may.\p"
 	.string "But before I do, I want your advice\n"
@@ -2373,7 +2373,7 @@ gText_ApprenticeWinSpeechThanks9::
 	.string "Adios!$"
 
 gText_ApprenticePickWinSpeech10::
-	.string "{PLAYER}{KUN}, there's big trouble!\p"
+	.string "{JOGADOR}{KUN}, there's big trouble!\p"
 	.string "When I win a battle, I brag about it\n"
 	.string "for an hour at least!\p"
 	.string "Of course I'm lying!\n"
@@ -2424,11 +2424,11 @@ gText_ApprenticeWinSpeechThanks11::
 	.string "to you this is my homage!$"
 
 gText_ApprenticePickWinSpeech12::
-	.string "Oh, yeah, {PLAYER}!\n"
+	.string "Oh, yeah, {JOGADOR}!\n"
 	.string "I found you again today!\p"
 	.string "What should I do? Ask you again?\n"
 	.string "Why not? I'm already asking you!\p"
-	.string "Anyways, {PLAYER}…\n"
+	.string "Anyways, {JOGADOR}…\n"
 	.string "Are you receiving me?\l"
 	.string "You are receiving me!\l"
 	.string "I need some more advice for me!\p"
@@ -2446,20 +2446,20 @@ gText_ApprenticeWinSpeechThanks12::
 	.string "But maybe one day we'll meet, with one\n"
 	.string "destined to go down in defeat.\p"
 	.string "But, it really is time to say farewell.\p"
-	.string "Well, {PLAYER}, I have to roam free,\n"
+	.string "Well, {JOGADOR}, I have to roam free,\n"
 	.string "but don't you forget about me!\p"
-	.string "Take care, {PLAYER}!\n"
+	.string "Take care, {JOGADOR}!\n"
 	.string "Love ya!$"
 
 gText_ApprenticePickWinSpeech13::
-	.string "{PLAYER}{KUN}, I'm finished…\n"
+	.string "{JOGADOR}{KUN}, I'm finished…\n"
 	.string "My nose won't stop dripping…\p"
 	.string "I was trying to think up something\n"
 	.string "cool to say when I win a battle.\p"
 	.string "It inspired me so much, it made me cry,\n"
 	.string "and now my nose won't stop running…\p"
 	.string "So, things being this way,\n"
-	.string "I need you to decide for me, {PLAYER}{KUN}.\p"
+	.string "I need you to decide for me, {JOGADOR}{KUN}.\p"
 	.string "When I win a battle,\n"
 	.string "what should I say?$"
 
@@ -2471,13 +2471,13 @@ gText_ApprenticeWinSpeechThanks13::
 	.string "But in spite of my tears and runny\n"
 	.string "nose, I will use that saying!\p"
 	.string "I'm plumb out of things to ask you,\n"
-	.string "{PLAYER}{KUN}.\p"
+	.string "{JOGADOR}{KUN}.\p"
 	.string "From now on, we're rivals!\n"
 	.string "Thanks for everything!$"
 
 gText_ApprenticePickWinSpeech14::
 	.string "Er… Um…\n"
-	.string "{PLAYER}{KUN}…\p"
+	.string "{JOGADOR}{KUN}…\p"
 	.string "Please, don't look at me that way.\n"
 	.string "You're making me all nervous.\p"
 	.string "I… I need your advice again.\n"
@@ -2491,15 +2491,15 @@ gText_ApprenticeWinSpeechThanks14::
 	.string "Oh… Okay!\n"
 	.string "I'll try to say that!\l"
 	.string "I might be too nervous to say it…\p"
-	.string "Thank you, {PLAYER}{KUN}.\n"
+	.string "Thank you, {JOGADOR}{KUN}.\n"
 	.string "I have to say good-bye now.\p"
 	.string "I'll obey all that you've taught me,\n"
-	.string "{PLAYER}{KUN}, and do the best I can.$"
+	.string "{JOGADOR}{KUN}, and do the best I can.$"
 
 gText_ApprenticePickWinSpeech15::
-	.string "Hm? You appear to be {PLAYER}{KUN}…\n"
+	.string "Hm? You appear to be {JOGADOR}{KUN}…\n"
 	.string "But are you really?\l"
-	.string "Perhaps a clever {PLAYER} DOLL?\p"
+	.string "Perhaps a clever {JOGADOR} DOLL?\p"
 	.string "Oh, no, no, no, don't worry!\n"
 	.string "If you really are real, please\l"
 	.string "forget about my rudeness.\p"

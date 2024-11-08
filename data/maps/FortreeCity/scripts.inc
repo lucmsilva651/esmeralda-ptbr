@@ -138,7 +138,7 @@ FortreeCity_Text_UnseeableUseDevonScope:
 	.string "Want to use the DEVON SCOPE?$"
 
 FortreeCity_Text_UsedDevonScopePokemonFled:
-	.string "{PLAYER} used the DEVON SCOPE.\p"
+	.string "{JOGADOR} used the DEVON SCOPE.\p"
 	.string "An invisible POKéMON became completely\n"
 	.string "visible!\p"
 	.string "The startled POKéMON fled!$"

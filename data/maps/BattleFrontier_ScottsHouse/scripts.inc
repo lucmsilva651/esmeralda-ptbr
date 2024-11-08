@@ -214,7 +214,7 @@ BattleFrontier_ScottsHouse_EventScript_ScottFaceAwayWest::
 BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier:
 	.string "SCOTT: Well, hello and welcome!\n"
 	.string "Heheh… Sorry about the cramped space.\p"
-	.string "Anyway, {PLAYER}{KUN}, let me formally\n"
+	.string "Anyway, {JOGADOR}{KUN}, let me formally\n"
 	.string "welcome you to the BATTLE FRONTIER.\p"
 	.string "This is my dream come true.\n"
 	.string "It took me years and years, but I've\l"
@@ -233,12 +233,12 @@ BattleFrontier_ScottsHouse_Text_HaveThisAsMementoOfOurPathsCrossing:
 	.string "No point dwelling on that!\p"
 	.string "All I want for you is to enjoy battling\n"
 	.string "to your heart's content here.\p"
-	.string "{PLAYER}{KUN}, I want you to have this\n"
+	.string "{JOGADOR}{KUN}, I want you to have this\n"
 	.string "as a memento for all the time our\l"
 	.string "paths crossed on our journeys.$"
 
 BattleFrontier_ScottsHouse_Text_ObtainedXBattlePoints:
-	.string "{PLAYER} obtained\n"
+	.string "{JOGADOR} obtained\n"
 	.string "{STR_VAR_1} Battle Point(s).$"
 
 BattleFrontier_ScottsHouse_Text_ExplainBattlePoints:
@@ -311,7 +311,7 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols:
 	.string "That's more than stupendous!\n"
 	.string "You're incredible, just as I suspected!\p"
 	.string "… … … … … …\p"
-	.string "{PLAYER}, you've got to accept this!\p"
+	.string "{JOGADOR}, you've got to accept this!\p"
 	.string "I think you will be able to\n"
 	.string "appreciate the value of my gift!$"
 

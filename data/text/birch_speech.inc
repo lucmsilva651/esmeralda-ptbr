@@ -40,11 +40,11 @@ gText_Birch_WhatsYourName::
 	.string "Qual é o seu nome?$"
 
 gText_Birch_SoItsPlayer::
-	.string "Entäo é {PLAYER}{KUN}?$"
+	.string "Entäo é {JOGADOR}{KUN}?$"
 
 gText_Birch_YourePlayer::
 	.string "Ah, entendi!\p"
-	.string "Você é {PLAYER}{KUN}, que está se mudando\n"
+	.string "Você é {JOGADOR}{KUN}, que está se mudando\n"
 	.string "para minha vila natal, LITTLEROOT.\l"
 	.string "Agora entendi!\p"
 	.string "$"

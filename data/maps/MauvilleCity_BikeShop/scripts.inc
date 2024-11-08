@@ -215,10 +215,10 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "Which one will you choose?$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike:
-	.string "{PLAYER} chose the MACH BIKE.$"
+	.string "{JOGADOR} chose the MACH BIKE.$"
 
 MauvilleCity_BikeShop_Text_ChoseAcroBike:
-	.string "{PLAYER} chose the ACRO BIKE.$"
+	.string "{JOGADOR} chose the ACRO BIKE.$"
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
 	.string "RYDEL: If you get the urge to switch\n"
@@ -233,11 +233,11 @@ MauvilleCity_BikeShop_Text_IllSwitchBikes:
 	.string "I'll switch BIKES for you!$"
 
 MauvilleCity_BikeShop_Text_ExchangedMachForAcro:
-	.string "{PLAYER} got the MACH BIKE exchanged\n"
+	.string "{JOGADOR} got the MACH BIKE exchanged\n"
 	.string "for an ACRO BIKE.$"
 
 MauvilleCity_BikeShop_Text_ExchangedAcroForMach:
-	.string "{PLAYER} got the ACRO BIKE exchanged\n"
+	.string "{JOGADOR} got the ACRO BIKE exchanged\n"
 	.string "for a MACH BIKE.$"
 
 MauvilleCity_BikeShop_Text_HappyYouLikeIt:

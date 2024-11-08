@@ -926,16 +926,16 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} has entered the BATTLE DOME!$"
+	.string "{JOGADOR} has entered the BATTLE DOME!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
 	.string "{STR_VAR_1}\n"
 	.string "match!\p"
-	.string "{PLAYER} versus {STR_VAR_2}!\p"
+	.string "{JOGADOR} versus {STR_VAR_2}!\p"
 	.string "Let the battle begin!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
-	.string "{PLAYER} is the winner!\n"
+	.string "{JOGADOR} is the winner!\n"
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
@@ -943,12 +943,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER} is the Level 50\n"
+	.string "{JOGADOR} is the Level 50\n"
 	.string "Battle Tournament Champion!\p"
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
-	.string "{PLAYER} is the Open Level\n"
+	.string "{JOGADOR} is the Open Level\n"
 	.string "Battle Tournament Champion!\p"
 	.string "Congratulations!$"
 
@@ -973,7 +973,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
 	.string "a decision!\p"
 	.string "The winner is…\n"
 	.string "Oh, my goodness!\l"
-	.string "The winner is {PLAYER}!\l"
+	.string "The winner is {JOGADOR}!\l"
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
@@ -1056,7 +1056,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
 	.string "And now… The TRAINER standing in\n"
-	.string "{PLAYER}'s record-setting path…\p"
+	.string "{JOGADOR}'s record-setting path…\p"
 	.string "Yes! The one and only!\n"
 	.string "The BATTLE DOME COMMISSIONER!\l"
 	.string "Our very own DOME ACE!\l"
@@ -1084,7 +1084,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
 	.string "Unbelievable! It's incredible!\n"
-	.string "The victor is {PLAYER}!$"
+	.string "The victor is {JOGADOR}!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
 	.string "The winner is TUCKER!\n"
@@ -1154,19 +1154,19 @@ BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
-	.string "{PLAYER} is the Level 50\n"
+	.string "{JOGADOR} is the Level 50\n"
 	.string "Battle Tournament Champion!\p"
 	.string "Congratulations!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
-	.string "{PLAYER} is the Open Level\n"
+	.string "{JOGADOR} is the Open Level\n"
 	.string "Battle Tournament Champion!\p"
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
 	.string "The final match!\p"
-	.string "{PLAYER} versus the DOME ACE, TUCKER!\p"
+	.string "{JOGADOR} versus the DOME ACE, TUCKER!\p"
 	.string "Let the battle begin!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:

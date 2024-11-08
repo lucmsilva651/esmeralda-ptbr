@@ -910,7 +910,7 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "MäE: {PLAYER}, chegamos, querido!\p"
+	.string "MäE: {JOGADOR}, chegamos, querido!\p"
 	.string "A viagem com as nossas coisas no\n"
 	.string "caminhäo deve ter sido cansativa.\p"
 	.string "Bem, essa é a vila de LITTLEROOT.\p"
@@ -918,14 +918,14 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "Essa é a nossa nova casa!\p"
 	.string "Tem um estilo peculiar, mas parece ser um\n"
 	.string "lugar bom pra viver, näo acha?\p"
-	.string "E você tem seu próprio quarto, {PLAYER}!\n"
+	.string "E você tem seu próprio quarto, {JOGADOR}!\n"
 	.string "Vamos pra dentro.$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MäE: Espera, {PLAYER}!$"
+	.string "MäE: Espera, {JOGADOR}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "MäE: {PLAYER}! {PLAYER}! Você\n"
+	.string "MäE: {JOGADOR}! {JOGADOR}! Você\n"
 	.string "se introduziu pro PROF. BIRCH?\p"
 	.string "Ah! Que POKéMON adorável!\n"
 	.string "Você pegou ele com o PROF. BIRCH. Que bom!\p"
@@ -936,11 +936,11 @@ LittlerootTown_Text_WearTheseRunningShoes:
 	.string "Eles daräo um toque em seu passo!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} trocou de tênis com o\n"
+	.string "{JOGADOR} trocou de tênis com o\n"
 	.string "TêNIS DE CORRIDA.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MäE: {PLAYER}, esses tênis vieram\n"
+	.string "MäE: {JOGADOR}, esses tênis vieram\n"
 	.string "com instruçöes.\p"
 	.string "“Segure o botäo B enquanto estiver\n"
 	.string "com os TêNIS DE CORRIDA para correr\n"
@@ -1006,13 +1006,13 @@ LittlerootTown_Text_ProfBirchsLab:
 	.string "LABORATóRIO POKéMON do PROF. BIRCH$"
 
 LittlerootTown_Text_PlayersHouse:
-	.string "CASA DE {PLAYER}$"
+	.string "CASA DE {JOGADOR}$"
 
 LittlerootTown_Text_ProfBirchsHouse:
 	.string "CASA DO PROF. BIRCH$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
-	.string "PROF. BIRCH: Ora, ora, {PLAYER}{KUN}!\n"
+	.string "PROF. BIRCH: Ora, ora, {JOGADOR}{KUN}!\n"
 	.string "Foi um bom trabalho lá fora!\p"
 	.string "Eu sabia que tinha algo especial\n"
 	.string "sobre você quando eu te vi pela primeira\l"

@@ -415,7 +415,7 @@ BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "{JOGADOR} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:

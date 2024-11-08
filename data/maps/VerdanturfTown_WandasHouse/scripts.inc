@@ -83,25 +83,25 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 	end
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
-	.string "WALLY: I lost to you, {PLAYER}, but I'm\n"
+	.string "WALLY: I lost to you, {JOGADOR}, but I'm\n"
 	.string "not feeling down anymore.\p"
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my RALTS, I'm going\l"
 	.string "to challenge POKéMON GYMS and become\l"
 	.string "a great TRAINER.\p"
-	.string "Please watch me, {PLAYER}.\n"
+	.string "Please watch me, {JOGADOR}.\n"
 	.string "I'm going to be stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"
 	.string "to another battle.$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
-	.string "WALLY: Please watch me, {PLAYER}.\n"
+	.string "WALLY: Please watch me, {JOGADOR}.\n"
 	.string "I'm going to get stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"
 	.string "to another battle.$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
-	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
+	.string "UNCLE: Oh! {JOGADOR}{KUN}!\n"
 	.string "WALLY's next door.\p"
 	.string "But, boy, there's something I have to\n"
 	.string "tell you.\p"
@@ -125,7 +125,7 @@ VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
 VerdanturfTown_WandasHouse_Text_MeetWanda:
 	.string "WANDA: You are?\n"
 	.string "Oh, right, I get it!\p"
-	.string "You're the {PLAYER} who WALLY was\n"
+	.string "You're the {JOGADOR} who WALLY was\n"
 	.string "telling me about.\p"
 	.string "I'm WALLY's cousin.\n"
 	.string "Glad to meet you!\p"

@@ -902,7 +902,7 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 	step_end
 
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
+	.string "{JOGADOR} wrote down the secret code\n"
 	.string "on the door.\p"
 	.string "“TRICK MASTER is a genius.”\n"
 	.string "… … … … … … … …\p"

@@ -94,7 +94,7 @@ FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
 	.string "we present you with this prize.$"
 
 FallarborTown_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "{JOGADOR} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
@@ -307,7 +307,7 @@ SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "{JOGADOR} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused

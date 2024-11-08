@@ -314,11 +314,11 @@ BattleFrontier_ReceptionGate_Text_IssueFrontierPass:
 	.string "Here you are!$"
 
 BattleFrontier_ReceptionGate_Text_ObtainedFrontierPass:
-	.string "{PLAYER} obtained\n"
+	.string "{JOGADOR} obtained\n"
 	.string "the FRONTIER PASS.$"
 
 BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass:
-	.string "{PLAYER} placed the TRAINER CARD\n"
+	.string "{JOGADOR} placed the TRAINER CARD\n"
 	.string "in the FRONTIER PASS.$"
 
 BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier:
@@ -326,7 +326,7 @@ BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier:
 	.string "FRONTIER has to offer!$"
 
 BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame:
-	.string "???: Well, if it isn't {PLAYER}{KUN}!\n"
+	.string "???: Well, if it isn't {JOGADOR}{KUN}!\n"
 	.string "You came out here!$"
 
 BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay:

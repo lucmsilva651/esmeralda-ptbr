@@ -342,7 +342,7 @@ RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne:
 RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:
 	.string "Excellent!\n"
 	.string "Let's do this right away.\p"
-	.string "{PLAYER} handed the {STR_VAR_1} to\n"
+	.string "{JOGADOR} handed the {STR_VAR_1} to\n"
 	.string "the DEVON RESEARCHER.$"
 
 RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime:
@@ -361,7 +361,7 @@ RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife:
 	.string "{STR_VAR_2}, it was!$"
 
 RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
-	.string "{PLAYER} received {STR_VAR_2} from\n"
+	.string "{JOGADOR} received {STR_VAR_2} from\n"
 	.string "the DEVON RESEARCHER.$"
 
 @ Unused

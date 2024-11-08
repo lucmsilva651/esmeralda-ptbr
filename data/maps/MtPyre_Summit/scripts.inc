@@ -592,7 +592,7 @@ MtPyre_Summit_Text_WellThatTooIsFine:
 	.string "Well, that, too, is fine…$"
 
 MtPyre_Summit_Text_MaxieSilence:
-	.string "MAXIE: {PLAYER}…\p"
+	.string "MAXIE: {JOGADOR}…\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 

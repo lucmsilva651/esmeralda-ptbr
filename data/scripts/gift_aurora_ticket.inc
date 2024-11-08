@@ -37,7 +37,7 @@ AuroraTicket_Obtained:
 sText_AuroraTicketForYou:
 	.string "Thank you for using the MYSTERY\n"
 	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
+	.string "You must be {JOGADOR}.\n"
 	.string "There is a ticket here for you.$"
 
 sText_AuroraTicketUseAtPort:
@@ -51,7 +51,7 @@ sText_AuroraTicketThankYou:
 	.string "GIFT System.$"
 
 sText_AuroraTicketBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
+	.string "Oh, I'm sorry, {JOGADOR}.\n"
 	.string "Your BAG's KEY ITEMS POCKET is full.\p"
 	.string "Please store something on your PC,\n"
 	.string "then come back for this.$"

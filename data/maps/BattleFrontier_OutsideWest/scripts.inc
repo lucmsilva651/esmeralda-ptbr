@@ -329,13 +329,13 @@ BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
 	.string "May I see your TICKET?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} doesn't have the TICKET…\p"
+	.string "{JOGADOR} doesn't have the TICKET…\p"
 	.string "I'm terribly sorry.\p"
 	.string "You must have a TICKET to board\n"
 	.string "the ferry.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} flashed the TICKET.\p"
+	.string "{JOGADOR} flashed the TICKET.\p"
 	.string "Perfect! That's all you need!\p"
 	.string "And where would you like to go?$"
 

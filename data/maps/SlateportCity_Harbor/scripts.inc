@@ -397,13 +397,13 @@ SlateportCity_Harbor_Text_MayISeeYourTicket:
 	.string "May I see your TICKET?$"
 
 SlateportCity_Harbor_Text_YouMustHaveTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
+	.string "{JOGADOR} doesn't have the TICKET…\p"
 	.string "I'm terribly sorry.\p"
 	.string "You must have a TICKET to board\n"
 	.string "the ferry.$"
 
 SlateportCity_Harbor_Text_FlashedTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
+	.string "{JOGADOR} flashed the TICKET.\p"
 	.string "Perfect! That's all you need!\p"
 	.string "And where would you like to go?$"
 
@@ -472,7 +472,7 @@ SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
 	.string "I don't stand a chance against them…$"
 
 SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
-	.string "CAPT. STERN: Oh, {PLAYER}{KUN}…\p"
+	.string "CAPT. STERN: Oh, {JOGADOR}{KUN}…\p"
 	.string "Okay… So TEAM AQUA left before you\n"
 	.string "could stop them…\p"
 	.string "Oh, no, don't blame yourself.\n"
@@ -503,7 +503,7 @@ SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry:
 	.string "making the ferry!$"
 
 SlateportCity_Harbor_Text_FinishedMakingFerry:
-	.string "CAPT. STERN: {PLAYER}{KUN}!\p"
+	.string "CAPT. STERN: {JOGADOR}{KUN}!\p"
 	.string "We finally finished making the ferry\n"
 	.string "S.S. TIDAL!\p"
 	.string "We couldn't have done it without\n"
@@ -512,17 +512,17 @@ SlateportCity_Harbor_Text_FinishedMakingFerry:
 
 SlateportCity_Harbor_Text_WouldYouTradeScanner:
 	.string "CAPT. STERN: Oh?\n"
-	.string "{PLAYER}{KUN}, that item you have…\p"
+	.string "{JOGADOR}{KUN}, that item you have…\p"
 	.string "That's a SCANNER! That would sure\n"
 	.string "help us on our explorations.\p"
-	.string "{PLAYER}{KUN}, would you trade your\n"
+	.string "{JOGADOR}{KUN}, would you trade your\n"
 	.string "SCANNER for something?\p"
 	.string "Like, say, a DEEPSEATOOTH or\n"
 	.string "a DEEPSEASCALE that I have?$"
 
 SlateportCity_Harbor_Text_IfYouWantToTradeLetMeKnow:
 	.string "CAPT. STERN: Are you certain?\n"
-	.string "It's useless to you, {PLAYER}{KUN}…\p"
+	.string "It's useless to you, {JOGADOR}{KUN}…\p"
 	.string "Well, okay, then. If you want to trade\n"
 	.string "your SCANNER, let me know.$"
 
@@ -538,9 +538,9 @@ SlateportCity_Harbor_Text_WhichOneDoYouWant:
 	.string "CAPT. STERN: Which one do you want?$"
 
 SlateportCity_Harbor_Text_HandedScannerToStern:
-	.string "{PLAYER} handed the SCANNER to\n"
+	.string "{JOGADOR} handed the SCANNER to\n"
 	.string "CAPT. STERN.$"
 
 SlateportCity_Harbor_Text_ThisWillHelpResearch:
-	.string "CAPT. STERN: Thanks, {PLAYER}{KUN}!\n"
+	.string "CAPT. STERN: Thanks, {JOGADOR}{KUN}!\n"
 	.string "This will help our research a lot!$"

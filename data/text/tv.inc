@@ -2703,7 +2703,7 @@ GabbyAndTy_Text_GabbyPreFirstBattle:
 	.string "Let's get this interview.$"
 
 GabbyAndTy_Text_GabbyIntro:
-	.string "GABBY: Oh! You're {PLAYER}! Hi!\n"
+	.string "GABBY: Oh! You're {JOGADOR}! Hi!\n"
 	.string "Do you remember us from last time?\p"
 	.string "Can you show us how much stronger\n"
 	.string "you've become? Okay, cue interview!$"
@@ -2839,12 +2839,12 @@ gTVInSearchOfTrainersText00::
 	.string "We're trying to spot some up-and-\n"
 	.string "coming new talent in the field.\p"
 	.string "Today, we turned our lens on the\n"
-	.string "TRAINER {PLAYER}.\p"
+	.string "TRAINER {JOGADOR}.\p"
 	.string "There's something about this TRAINER\n"
 	.string "that piqued our interest.$"
 
 gTVInSearchOfTrainersText01::
-	.string "We've battled {PLAYER} before, but we\n"
+	.string "We've battled {JOGADOR} before, but we\n"
 	.string "can attest that the TRAINER has most\l"
 	.string "definitely improved from before.\p"
 	.string "I knew we were onto someone special\n"
@@ -2857,10 +2857,10 @@ gTVInSearchOfTrainersText02::
 	.string "And so we began our investigation!\p"
 	.string "… …\p"
 	.string "That's how we ended up in battle\n"
-	.string "with {PLAYER}.\p"
+	.string "with {JOGADOR}.\p"
 	.string "In a dominating performance, we were\n"
 	.string "flattened, rolled up, and tossed aside!\p"
-	.string "{PLAYER} is ruthlessly strong…\p"
+	.string "{JOGADOR} is ruthlessly strong…\p"
 	.string "Here's our impressions after having\n"
 	.string "battled our featured TRAINER.$"
 
@@ -2882,23 +2882,23 @@ gTVInSearchOfTrainersText04::
 	.string "We were beaten before we could launch\n"
 	.string "a single attack.\l"
 	.string "Ohhh… Snivel…\p"
-	.string "In spite of that, {PLAYER}'s battles\n"
+	.string "In spite of that, {JOGADOR}'s battles\n"
 	.string "are worth seeing.\p"
 	.string "I recommend confident TRAINERS to\n"
-	.string "challenge {PLAYER}.$"
+	.string "challenge {JOGADOR}.$"
 
 gTVInSearchOfTrainersText05::
 	.string "There's only one thing to be said.\n"
 	.string "Don't you dare throw a POKé BALL during\l"
 	.string "a TRAINER battle!\p"
-	.string "{PLAYER} is certainly strong, but has\n"
+	.string "{JOGADOR} is certainly strong, but has\n"
 	.string "no clue about the basic rules.\p"
 	.string "To our TV audience, I have a request.\p"
-	.string "If you see {PLAYER}, please caution\n"
+	.string "If you see {JOGADOR}, please caution\n"
 	.string "the TRAINER!$"
 
 gTVInSearchOfTrainersText06::
-	.string "{PLAYER} is adept at reading the\n"
+	.string "{JOGADOR} is adept at reading the\n"
 	.string "opponent's actions.\p"
 	.string "The timing of item usage was remarkably\n"
 	.string "effective!$"
@@ -2909,13 +2909,13 @@ gTVInSearchOfTrainersText07::
 	.string "While we did end up losing, we did have\n"
 	.string "a hotly contested battle.\p"
 	.string "But if you're struggling against me,\n"
-	.string "you have a ways to go, {PLAYER}!$"
+	.string "you have a ways to go, {JOGADOR}!$"
 
 gTVInSearchOfTrainersText08::
-	.string "After our battle, we asked {PLAYER} for\n"
+	.string "After our battle, we asked {JOGADOR} for\n"
 	.string "a succinct summary.\p"
 	.string "The TRAINER replied, “{STR_VAR_1}.”\p"
-	.string "{PLAYER}'s POKéMON {STR_VAR_2} and\n"
+	.string "{JOGADOR}'s POKéMON {STR_VAR_2} and\n"
 	.string "{STR_VAR_3}…\l"
 	.string "And “{STR_VAR_1}”…\p"
 	.string "Mmm! That's deep! There's deep\n"

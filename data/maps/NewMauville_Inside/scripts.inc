@@ -255,7 +255,7 @@ NewMauville_Inside_Text_GeneratorQuietedDown:
 	.string "The generator quieted down.$"
 
 NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped:
-	.string "{PLAYER} stepped on the switch.\p"
+	.string "{JOGADOR} stepped on the switch.\p"
 	.string "Click…\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"

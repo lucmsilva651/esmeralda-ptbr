@@ -1135,7 +1135,7 @@ RustboroCity_Text_PleaseComeWithMe:
 	.string "Please come with me!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Oh, hi, {JOGADOR}{KUN}!\p"
 	.string "You had a MATCH CALL feature put\n"
 	.string "on your POKéNAV!\p"
 	.string "Let's register each other so we can\n"
@@ -1152,7 +1152,7 @@ RustboroCity_Text_MayPassedBrineyWantToBattle:
 	.string "I guess he's on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
+	.string "{JOGADOR}{KUN}? Mine's looking pretty decent!\p"
 	.string "So…\n"
 	.string "How about a little battle?$"
 
@@ -1168,7 +1168,7 @@ RustboroCity_Text_MayWantToBattle:
 
 RustboroCity_Text_MayImNotGoingToLose:
 	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "{JOGADOR}{KUN}. I'm not going to lose!$"
 
 RustboroCity_Text_MayDefeat:
 	.string "Yikes!\n"
@@ -1177,12 +1177,12 @@ RustboroCity_Text_MayDefeat:
 RustboroCity_Text_MayMrBrineyHint:
 	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
 	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
+	.string "{JOGADOR}{KUN}, you just moved here so you\n"
 	.string "might not know this, but MR. BRINEY\l"
 	.string "was once a revered seafarer.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
+	.string "BRENDAN: Oh, hey, {JOGADOR}!\p"
 	.string "You had a MATCH CALL feature put\n"
 	.string "on your POKéNAV! Cool!\p"
 	.string "Let's register each other so we can\n"
@@ -1194,11 +1194,11 @@ RustboroCity_Text_RegisteredBrendan:
 	.string "in the POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
+	.string "BRENDAN: By the way, {JOGADOR}, I walked\n"
 	.string "by MR. BRINEY in PETALBURG WOODS.\p"
 	.string "I bet he was on his way home to his\n"
 	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
+	.string "{JOGADOR}, how's your POKéDEX?\n"
 	.string "Have you filled in any pages yet?\p"
 	.string "Mine rules.\p"
 	.string "Want to have a battle to test how\n"
@@ -1224,7 +1224,7 @@ RustboroCity_Text_BrendanMrBrineyHint:
 	.string "BRENDAN: By the way, you know\n"
 	.string "MR. BRINEY? The guy I just passed?\p"
 	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
+	.string "just moved here, {JOGADOR}, but\l"
 	.string "MR. BRINEY was once a great sailor.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
@@ -1266,17 +1266,17 @@ RustboroCity_Text_DevelopedNewPokenavFeature:
 	.string "I've been developing an added feature\n"
 	.string "for the POKéNAV…\p"
 	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
+	.string "{JOGADOR}, may I see that POKéNAV?\n"
 	.string "The one our PRESIDENT gave you?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
+	.string "There you go, {JOGADOR}!\p"
 	.string "I added a new feature named\n"
 	.string "MATCH CALL to your POKéNAV.\p"
 	.string "Using the MATCH CALL feature,\n"
 	.string "you can chat with people who have\l"
 	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
+	.string "{JOGADOR}, our PRESIDENT STONE should\n"
 	.string "be registered in your POKéNAV.\p"
 	.string "Test it out.\n"
 	.string "Please give our PRESIDENT a call.$"
@@ -1286,7 +1286,7 @@ RustboroCity_Text_PleaseSelectPokenav:
 
 RustboroCity_Text_IdBetterGetBackToWork:
 	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "Please take care, {JOGADOR}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
 	.string "Did you know this?\p"

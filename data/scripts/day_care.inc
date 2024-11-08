@@ -301,7 +301,7 @@ Route117_Text_YouHaveNoRoomForIt:
 	.string "Come back when you've made room.$"
 
 Route117_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
+	.string "{JOGADOR} received the EGG from\n"
 	.string "the DAY-CARE MAN.$"
 
 Route117_Text_TakeGoodCareOfIt:
@@ -388,7 +388,7 @@ Route117_PokemonDayCare_Text_HeresYourMon:
 	.string "Here's your POKéMON.$"
 
 Route117_PokemonDayCare_Text_TookBackMon:
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
+	.string "{JOGADOR} took back {STR_VAR_1} from\n"
 	.string "the DAY-CARE LADY.$"
 
 Route117_PokemonDayCare_Text_YouHaveJustOneMon:

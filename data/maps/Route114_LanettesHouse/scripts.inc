@@ -46,7 +46,7 @@ Route114_LanettesHouse_EventScript_PC::
 	end
 
 Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
-	.string "LANETTE: Oh! {PLAYER}{KUN}!\p"
+	.string "LANETTE: Oh! {JOGADOR}{KUN}!\p"
 	.string "I'm sorry everything is so cluttered…\n"
 	.string "When I get engrossed in research,\l"
 	.string "things end up this way…\p"
@@ -85,7 +85,7 @@ Route114_LanettesHouse_Text_ResearchNotesPage3:
 	.string "to which POKéMON are sent.$"
 
 Route114_LanettesHouse_Text_ClosedTheNotebook:
-	.string "{PLAYER} closed the notebook.$"
+	.string "{JOGADOR} closed the notebook.$"
 
 Route114_LanettesHouse_Text_EmailFromBill:
 	.string "There's an e-mail from someone on\n"

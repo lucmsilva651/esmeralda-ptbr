@@ -87,7 +87,7 @@ FallarborTown_PokemonCenter_1F_Movement_LanetteExitWest:
 FallarborTown_PokemonCenter_1F_Text_LanetteGreeting:
 	.string "Oh, hello.\n"
 	.string "You are?\p"
-	.string "Okay, your name's {PLAYER}{KUN}.\n"
+	.string "Okay, your name's {JOGADOR}{KUN}.\n"
 	.string "I can see that you're a TRAINER.\p"
 	.string "So that means you use the POKéMON\n"
 	.string "Storage System I developed.\p"

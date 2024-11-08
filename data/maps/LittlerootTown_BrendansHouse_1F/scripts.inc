@@ -288,30 +288,30 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "MäE: Viu, {PLAYER}?\n"
+	.string "MäE: Viu, {JOGADOR}?\n"
 	.string "Näo é legal aqui também?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
 	.string "Os POKéMON fazem todo o trabalho\n"
 	.string "de mover a gente e limpar tudo depois.\l"
 	.string "Isso é täo conveniente!\p"
-	.string "{PLAYER}, seu quarto é lá em cima.\n"
+	.string "{JOGADOR}, seu quarto é lá em cima.\n"
 	.string "Vai lá dar uma olhada, querido!\p"
 	.string "O seu PAI comprou um relógio novo\n"
 	.string "pra marcar a nossa mudança pra cá.\l"
 	.string "Näo se esqueça de arrumar a hora dele!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "MäE: Ué, {PLAYER}?\p"
+	.string "MäE: Ué, {JOGADOR}?\p"
 	.string "Näo tá interessado em ver seu\n"
 	.string "próprio quarto?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "MäE: {PLAYER}.\p"
+	.string "MäE: {JOGADOR}.\p"
 	.string "Vai lá arrumar o relógio, querido.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "MäE: Ah! {PLAYER}, {PLAYER}!\n"
+	.string "MäE: Ah! {JOGADOR}, {JOGADOR}!\n"
 	.string "Rápido! Vem cá!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
@@ -339,7 +339,7 @@ PlayersHouse_1F_Text_DidYouMeetProfBirch:
 	.string "PROF. BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MäE: Como você está, {PLAYER}?\n"
+	.string "MäE: Como você está, {JOGADOR}?\n"
 	.string "Você parece um pouco cansado.\p"
 	.string "Eu acho que você devia descansar.$"
 
@@ -392,7 +392,7 @@ PlayersHouse_1F_Text_RunningShoesManual:
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "PAI: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
+	.string "Hey, it's {JOGADOR}!\p"
 	.string "It's been a while since I saw you,\n"
 	.string "but you look…stronger, somehow.\p"
 	.string "That's the impression I get.\n"
@@ -432,7 +432,7 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
 	.string "movie program.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "MäE: {PLAYER}, did you catch that?\p"
+	.string "MäE: {JOGADOR}, did you catch that?\p"
 	.string "What color did the announcer say\n"
 	.string "that POKéMON was?$"
 

@@ -598,7 +598,7 @@ BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
 	.string "We will hold your BAG for safekeeping,\n"
-	.string "{PLAYER}, while you are exploring.$"
+	.string "{JOGADOR}, while you are exploring.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
 	.string "In exchange, please take this BATTLE\n"
@@ -609,7 +609,7 @@ BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
 	.string "BATTLE BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} exchanged the BAG for\n"
+	.string "{JOGADOR} exchanged the BAG for\n"
 	.string "the BATTLE BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
@@ -627,7 +627,7 @@ BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
 	.string "been disqualified, I'm sorry to say.\p"
 	.string "Here is the BAG we've been holding\n"
 	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "{JOGADOR} got the BAG back.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
 	.string "Excellent to see you back!\p"
@@ -643,7 +643,7 @@ BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
 	.string "All items held by your POKéMON will be\n"
-	.string "moved to your BATTLE BAG, {PLAYER}.$"
+	.string "moved to your BATTLE BAG, {JOGADOR}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
 	.string "The BATTLE BAG cannot hold all your\n"
@@ -661,13 +661,13 @@ BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
-	.string "{PLAYER} returned everything that\n"
+	.string "{JOGADOR} returned everything that\n"
 	.string "the POKéMON held.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
 	.string "The BATTLE BAG you used will be kept\n"
 	.string "in readiness for your next challenge.\p"
-	.string "{PLAYER} turned the BATTLE BAG over\n"
+	.string "{JOGADOR} turned the BATTLE BAG over\n"
 	.string "for the BAG's return.$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
@@ -681,7 +681,7 @@ BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "{JOGADOR} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
@@ -695,7 +695,7 @@ BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "How disappointing for you…\p"
 	.string "Here is the BAG we've been holding\n"
 	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "{JOGADOR} got the BAG back.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
 	.string "We look forward to your\n"

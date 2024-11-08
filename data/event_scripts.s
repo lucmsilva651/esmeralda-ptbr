@@ -870,7 +870,7 @@ gText_PokemonTrainerSchoolEmail::
 	.string "… … … … … …$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} ligou o PC.$"
+	.string "{JOGADOR} ligou o PC.$"
 
 gText_PokeblockLinkCanceled::
 	.string "The link was canceled.$"
@@ -880,8 +880,8 @@ gText_UnusedNicknameReceivedPokemon::
 	.string "para o {STR_VAR_2} que você recebeu?$"
 
 gText_PlayerWhitedOut::
-	.string "{PLAYER} näo tem mais nenhum\n"
-	.string "POKéMON!\p{PLAYER} perdeu!$"
+	.string "{JOGADOR} näo tem mais nenhum\n"
+	.string "POKéMON!\p{JOGADOR} perdeu!$"
 
 gText_RegisteredTrainerinPokeNav::
 	.string "Registrou {STR_VAR_1} {STR_VAR_2}\n"
@@ -934,7 +934,7 @@ gText_SorryRecordCornerPreparation::
 	.string "is under preparation.$"
 
 gText_PlayerHandedOverTheItem::
-	.string "{PLAYER} handed over the\n"
+	.string "{JOGADOR} handed over the\n"
 	.string "{STR_VAR_1}.$"
 
 gText_ThankYouForAccessingMysteryGift::
@@ -942,7 +942,7 @@ gText_ThankYouForAccessingMysteryGift::
 	.string "MYSTERY GIFT System.$"
 
 gText_PlayerFoundOneTMHM::
-	.string "{PLAYER} found one {STR_VAR_1}\n"
+	.string "{JOGADOR} found one {STR_VAR_1}\n"
 	.string "{STR_VAR_2}!$"
 
 gText_Sudowoodo_Attacked::

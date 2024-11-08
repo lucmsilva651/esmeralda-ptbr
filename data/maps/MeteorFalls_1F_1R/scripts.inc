@@ -267,7 +267,7 @@ MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore:
 	.string "ARCHIE: Didn't I see you before?\n"
 	.string "At SLATEPORT's MUSEUM?\p"
-	.string "Ah, so your name is {PLAYER}.\p"
+	.string "Ah, so your name is {JOGADOR}.\p"
 	.string "At the time, I thought you were one\n"
 	.string "of TEAM MAGMA's goons.\p"
 	.string "Humph…\n"
@@ -290,7 +290,7 @@ MeteorFalls_1F_1R_Text_ArchieYesNoTellingWhatMagmaWillDo:
 	.string "will do at MT. CHIMNEY!$"
 
 MeteorFalls_1F_1R_Text_ArchieFarewell:
-	.string "ARCHIE: {PLAYER}, you should keep\n"
+	.string "ARCHIE: {JOGADOR}, you should keep\n"
 	.string "an eye out for TEAM MAGMA, too.\p"
 	.string "Farewell!$"
 

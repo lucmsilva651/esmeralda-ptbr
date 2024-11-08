@@ -11,7 +11,7 @@ gText_SavingDontTurnOff::
 	.string "NäO DESLIGUE O SISTEMA.$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} salvou o jogo.$"
+	.string "{JOGADOR} salvou o jogo.$"
 
 gText_DifferentSaveFile::
 	.string "AVISO!\p"

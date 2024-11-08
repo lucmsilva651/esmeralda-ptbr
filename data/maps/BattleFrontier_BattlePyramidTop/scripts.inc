@@ -231,7 +231,7 @@ BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
 
 BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
 	.string "The PYRAMID's new conqueror!\n"
-	.string "Let the name {PLAYER} be known!$"
+	.string "Let the name {JOGADOR} be known!$"
 
 BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
 	.string "It is a delight to see you here!\p"

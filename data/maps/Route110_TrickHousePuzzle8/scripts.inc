@@ -28,7 +28,7 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
+	.string "{JOGADOR} wrote down the secret code\n"
 	.string "on the door.\p"
 	.string "“TRICK MASTER I love.”\n"
 	.string "… … … … … … … …\p"

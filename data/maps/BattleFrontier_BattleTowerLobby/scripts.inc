@@ -944,7 +944,7 @@ BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize:
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "{JOGADOR} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
@@ -980,10 +980,10 @@ BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
 	.string "Here are some RIBBONS for beating\n"
 	.string "seven tough TRAINERS in a row.\p"
-	.string "{PLAYER} received some RIBBONS!$"
+	.string "{JOGADOR} received some RIBBONS!$"
 
 BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons:
-	.string "{PLAYER} put the RIBBONS on\n"
+	.string "{JOGADOR} put the RIBBONS on\n"
 	.string "the challenger POKéMON.$"
 
 BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower:
@@ -1348,7 +1348,7 @@ BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
 	.string "we award you these Battle Point(s).$"
 
 BattleFrontier_Text_ObtainedXBattlePoints:
-	.string "{PLAYER} obtained {STR_VAR_1} Battle Point(s).$"
+	.string "{JOGADOR} obtained {STR_VAR_1} Battle Point(s).$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
 	.string "The BATTLE TOWER rules are listed.$"

@@ -569,7 +569,7 @@ LilycoveCity_PokemonTrainerFanClub_EventScript_AlreadyInterviewed2::
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWowItsPlayer:
 	.string "Oh, wow!\n"
-	.string "It's {PLAYER}!$"
+	.string "It's {JOGADOR}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan:
 	.string "I've heard the news!\n"
@@ -585,16 +585,16 @@ LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan:
 	.string "That will make the others here see\n"
 	.string "exactly how great you are.\p"
 	.string "Remember, I'm cheering for you,\n"
-	.string "{PLAYER}!$"
+	.string "{JOGADOR}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureOneWeWantToWin:
-	.string "Yo, {PLAYER}!\n"
+	.string "Yo, {JOGADOR}!\n"
 	.string "You're the one we want to win!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OthersDontKnowYoureTheBest:
 	.string "The others, they don't know that\n"
 	.string "you're the best of the best!\p"
-	.string "Isn't that right, {PLAYER}?\n"
+	.string "Isn't that right, {JOGADOR}?\n"
 	.string "Show them you've got guts!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
@@ -619,7 +619,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
 
 LilycoveCity_PokemonTrainerFanClub_Text_ImPullingForYou:
 	.string "Oh!\n"
-	.string "{PLAYER}!\p"
+	.string "{JOGADOR}!\p"
 	.string "Go for it!\n"
 	.string "I'm pulling for you!$"
 
@@ -686,17 +686,17 @@ LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
 	.string "we might even become your fans!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWoweeItsPlayer:
-	.string "Oh, woweee! It's {PLAYER}!\n"
+	.string "Oh, woweee! It's {JOGADOR}!\n"
 	.string "For real, too!\p"
 	.string "Please, shake my hand, shake my hand!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou:
-	.string "I'll always cheer for you, {PLAYER}!\n"
+	.string "I'll always cheer for you, {JOGADOR}!\n"
 	.string "Always, always!\p"
 	.string "I don't want to see you lose ever,\n"
-	.string "{PLAYER}.\p"
+	.string "{JOGADOR}.\p"
 	.string "Because I know you're really,\n"
-	.string "really strong, {PLAYER}!$"
+	.string "really strong, {JOGADOR}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_EveryoneThinksTrainerIsCool:
 	.string "{STR_VAR_1} is really cool…\p"
@@ -716,16 +716,16 @@ LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
 	.string "I wish there was a TRAINER like that…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WantToBeStrongLikeYou:
-	.string "Whoa! It's {PLAYER}!\n"
+	.string "Whoa! It's {JOGADOR}!\n"
 	.string "Wicked!\p"
 	.string "When I grow up, I want to be strong\n"
-	.string "like you, {PLAYER}!$"
+	.string "like you, {JOGADOR}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OnlyOneWhoCheersForYou:
 	.string "Even if I'm the only one…\p"
 	.string "You'll always be the only one\n"
-	.string "I cheer for, {PLAYER}!\p"
-	.string "Because I believe in you, {PLAYER}!$"
+	.string "I cheer for, {JOGADOR}!\p"
+	.string "Because I believe in you, {JOGADOR}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsWickedlyCool:
 	.string "{STR_VAR_1} is so wickedly cool…\n"
@@ -739,7 +739,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_NeverGoingToStopBeingTrainersFan:
 	.string "never loses!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureAmazingAfterAll:
-	.string "{PLAYER}!\n"
+	.string "{JOGADOR}!\n"
 	.string "You are amazing after all!\p"
 	.string "Ever since I set eyes on you,\n"
 	.string "I knew that you were great.\p"

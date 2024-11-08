@@ -121,11 +121,11 @@ VictoryRoad_1F_EventScript_Katelynn::
 	end
 
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
-	.string "WALLY: Hi! {PLAYER}!\p"
+	.string "WALLY: Hi! {JOGADOR}!\p"
 	.string "I bet you're surprised to see me here!\p"
 	.string "I made it all the way here, and it's\n"
 	.string "all thanks to you!\p"
-	.string "{PLAYER}, losing to you that time\n"
+	.string "{JOGADOR}, losing to you that time\n"
 	.string "made me stronger!\p"
 	.string "But I'm not going to lose anymore!\p"
 	.string "I'm going to win! For the POKéMON who\n"
@@ -134,26 +134,26 @@ VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
 
 VictoryRoad_1F_Text_WallyEntranceDefeat:
 	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "{JOGADOR}, you are strong, after all!$"
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
 	.string "WALLY: I couldn't beat you today,\n"
-	.string "{PLAYER}, but one of these days, I'll\l"
+	.string "{JOGADOR}, but one of these days, I'll\l"
 	.string "catch up to you!$"
 
 VictoryRoad_1F_Text_WallyIntro:
-	.string "WALLY: Hi! {PLAYER}!\p"
+	.string "WALLY: Hi! {JOGADOR}!\p"
 	.string "I've gotten stronger since that last\n"
-	.string "time! I wanted to show you, {PLAYER}!\p"
+	.string "time! I wanted to show you, {JOGADOR}!\p"
 	.string "Okay… Here I come!$"
 
 VictoryRoad_1F_Text_WallyDefeat:
 	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "{JOGADOR}, you are strong, after all!$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
 	.string "WALLY: I couldn't beat you this time,\n"
-	.string "too… But one of these days, {PLAYER},\l"
+	.string "too… But one of these days, {JOGADOR},\l"
 	.string "I'm going to catch up to you…\p"
 	.string "And challenge the POKéMON LEAGUE!$"
 

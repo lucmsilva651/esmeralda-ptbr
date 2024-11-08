@@ -293,7 +293,7 @@ Route103_Text_MayRoute103Pokemon:
 	.string "on ROUTE 103 include…$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
+	.string "Oh, hi, {JOGADOR}{KUN}!\p"
 	.string "…Oh, I see, my dad gave you\n"
 	.string "a POKéMON as a gift.\p"
 	.string "Since we're here, let's have a quick\n"
@@ -303,7 +303,7 @@ Route103_Text_MayLetsBattle:
 
 Route103_Text_MayDefeated:
 	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "{JOGADOR}{KUN}, you're pretty good!$"
 
 Route103_Text_MayTimeToHeadBack:
 	.string "MAY: I think I know why my dad has\n"
@@ -320,7 +320,7 @@ Route103_Text_BrendanRoute103Pokemon:
 	.string "that one that live on ROUTE 103…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
+	.string "Hey, it's {JOGADOR}!\p"
 	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
 	.string "Since we're here, how about a little\n"
 	.string "battle?\p"
@@ -328,7 +328,7 @@ Route103_Text_BrendanLetsBattle:
 	.string "about!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "Huh, {JOGADOR}, you're not too shabby.$"
 
 Route103_Text_BrendanTimeToHeadBack:
 	.string "BRENDAN: I think I get it.\n"
@@ -336,7 +336,7 @@ Route103_Text_BrendanTimeToHeadBack:
 	.string "out for you now.\p"
 	.string "Look, your POKéMON already likes you,\n"
 	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
+	.string "{JOGADOR}, I get the feeling that you\n"
 	.string "could befriend any POKéMON with ease.\p"
 	.string "We should head back to the LAB.$"
 

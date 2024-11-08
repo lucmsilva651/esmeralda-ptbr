@@ -964,10 +964,10 @@ SlateportCity_Text_PleaseGiveItThisEffortRibbon:
 	.string "EFFORT RIBBON.$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} received the EFFORT RIBBON.$"
+	.string "{JOGADOR} received the EFFORT RIBBON.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} put the EFFORT RIBBON\n"
+	.string "{JOGADOR} put the EFFORT RIBBON\n"
 	.string "on {STR_VAR_1}.$"
 
 SlateportCity_Text_GoForItLittleHarder:
@@ -1193,7 +1193,7 @@ SlateportCity_Text_SternWhewFirstInterview:
 	.string "TV. That was nerve-wracking.$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
-	.string "Oh! {PLAYER}{KUN}!\n"
+	.string "Oh! {JOGADOR}{KUN}!\n"
 	.string "You're looking great!\p"
 	.string "We made a huge discovery on our last\n"
 	.string "seafloor exploration.\p"
@@ -1225,7 +1225,7 @@ SlateportCity_Text_FromHarborTryingToTakeSub:
 	.string "They're trying to take it!$"
 
 SlateportCity_Text_PleaseComeWithMe:
-	.string "{PLAYER}{KUN}!\n"
+	.string "{JOGADOR}{KUN}!\n"
 	.string "Please, come with me!$"
 
 SlateportCity_Text_BattleTentSign:
@@ -1371,12 +1371,12 @@ SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
 	.string "on the talents of other people, too.\p"
 	.string "So, I'll be off to roam other towns\n"
 	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.string "Be seeing you, {JOGADOR}{KUN}!$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
 	.string "SCOTT: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
+	.string "If it isn't {JOGADOR}{KUN}!\p"
+	.string "{JOGADOR}{KUN}, let me guess--you're going\n"
 	.string "to take the BATTLE TENT challenge?\p"
 	.string "Yeah! That's a good idea!\n"
 	.string "That's a really great idea!\p"

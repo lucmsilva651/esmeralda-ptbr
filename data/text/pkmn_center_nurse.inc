@@ -31,14 +31,14 @@ gText_NoticesGoldCard::
 	.string "Oh, a cor dourada é brilhante!\n"
 	.string "As quatro estrelas parecem brilhar!\p"
 	.string "Já vi vários TREINADORES com um\n"
-	.string "CARTäO DE PRATA antes, mas, {PLAYER},\l"
+	.string "CARTäO DE PRATA antes, mas, {JOGADOR},\l"
 	.string "você é o primeiro TREINADOR que eu já\l"
 	.string "vi com um CARTäO DE OURO!\p"
-	.string "Ok, {PLAYER}, por favor, permita-me\n"
+	.string "Ok, {JOGADOR}, por favor, permita-me\n"
 	.string "a honra de descansar seus POKéMON!$"
 
 gText_YouWantTheUsual::
-	.string "Estou encantado em vê-lo, {PLAYER}!\n"
+	.string "Estou encantado em vê-lo, {JOGADOR}!\n"
 	.string "Você quer o de sempre, certo?$"
 
 gText_IllTakeYourPkmn2::

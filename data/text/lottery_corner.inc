@@ -68,7 +68,7 @@ LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
 	.string "let me know.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
-	.string "{PLAYER}?\n"
+	.string "{JOGADOR}?\n"
 	.string "Yes, I've been expecting you.\p"
 	.string "This is the prize we've been holding\n"
 	.string "for you.$"

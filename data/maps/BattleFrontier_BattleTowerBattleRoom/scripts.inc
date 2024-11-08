@@ -475,7 +475,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
 	.string "FRONTIER PASS?$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
-	.string "{PLAYER}'s battle was recorded\n"
+	.string "{JOGADOR}'s battle was recorded\n"
 	.string "on the FRONTIER PASS.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:

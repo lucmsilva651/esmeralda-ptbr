@@ -366,7 +366,7 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-bound\n"
-	.string "{PLAYER}?\p"
+	.string "{JOGADOR}?\p"
 	.string "The GYM LEADERS here use\n"
 	.string "PSYCHIC-type POKéMON.\p"
 	.string "If you go up against them with\n"
@@ -566,7 +566,7 @@ MossdeepCity_Gym_Text_TateAndLizaDefeat:
 	.string "LIZA: So, in recognition, take this.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} received the MIND BADGE\n"
+	.string "{JOGADOR} received the MIND BADGE\n"
 	.string "from TATE and LIZA.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
@@ -611,7 +611,7 @@ MossdeepCity_Gym_Text_GymStatue:
 MossdeepCity_Gym_Text_GymStatueCertified:
 	.string "MOSSDEEP CITY POKéMON GYM\p"
 	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
+	.string "{JOGADOR}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
 	.string "TATE: POKéMON…\n"

@@ -264,7 +264,7 @@ Route128_Text_MaxieDoYouUnderstandNow:
 	.string "completely out of control!$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
-	.string "MAXIE: {PLAYER}, don't say anything.\p"
+	.string "MAXIE: {JOGADOR}, don't say anything.\p"
 	.string "I know that I have no right to be\n"
 	.string "critical of ARCHIE…\p"
 	.string "But the way things are now, I doubt\n"
@@ -282,7 +282,7 @@ Route128_Text_MaxieThisDefiesBelief:
 	.string "They've upset the balance of nature…$"
 
 Route128_Text_StevenWhatIsHappening:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
+	.string "STEVEN: {JOGADOR}{KUN}!\n"
 	.string "What is happening?$"
 
 Route128_Text_StevenWholeWorldWillDrown:
@@ -298,7 +298,7 @@ Route128_Text_StevenWholeWorldWillDrown:
 	.string "SOOTOPOLIS might provide answers…$"
 
 Route128_Text_StevenImGoingToSootopolis:
-	.string "{PLAYER}{KUN}…\n"
+	.string "{JOGADOR}{KUN}…\n"
 	.string "I don't know what you intend to do,\l"
 	.string "but don't do anything reckless.\p"
 	.string "Okay.\n"

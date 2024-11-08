@@ -135,7 +135,7 @@ FortreeCity_Gym_EventScript_GymStatue::
 
 FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
+	.string "bound {JOGADOR}?\p"
 	.string "FORTREE GYM LEADER WINONA is\n"
 	.string "a master of FLYING-type POKéMON.\p"
 	.string "She's waiting at the back of this GYM,\n"
@@ -249,7 +249,7 @@ FortreeCity_Gym_Text_WinonaDefeat:
 	.string "I present to you this GYM BADGE.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} received the FEATHER BADGE\n"
+	.string "{JOGADOR} received the FEATHER BADGE\n"
 	.string "from WINONA.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
@@ -281,7 +281,7 @@ FortreeCity_Gym_Text_GymStatue:
 FortreeCity_Gym_Text_GymStatueCertified:
 	.string "FORTREE CITY POKéMON GYM\p"
 	.string "WINONA'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
+	.string "{JOGADOR}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
 	.string "WINONA: We humans can never escape\n"
